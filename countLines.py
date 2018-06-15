@@ -1,5 +1,10 @@
 import sys
 
+"""
+Script that counts the number of lines in a file.
+Receives a file name as an argument.
+"""
+
 fname = sys.argv[1]
 
 f = open(fname, 'r')
