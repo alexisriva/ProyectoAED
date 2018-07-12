@@ -9,15 +9,16 @@ class jobItem(Item):
     job = Field()
     company = Field()
     number_of_evaluations = Field()
+    summary = Field()
 
 
 class jobSpider(CrawlSpider):
     name = "jobSpider"
-    allowed_domains=['www.indeed.co.uk']
-    start_urls=['https://www.indeed.co.uk/jobs?q=data+science&l=london']
+    allowed_domains=['co.indeed.com']
+    start_urls=['https://co.indeed.com/jobs?q=big+data&l=Bogot%C3%A1%2C+Distrito+Capital%2C+Cundinamarca']
 
     rules = (Rule(
-            LinkExtractor(allow=(), restrict_xpaths=('//a[span="Next\xa0»"]',)),
+            LinkExtractor(allow=(), restrict_xpaths=('//a[span="Siguiente\xa0&raquo"]',)),
             callback="parse_page",
             follow=True
         ),
@@ -42,5 +43,7 @@ class jobSpider(CrawlSpider):
 
             if result[i].css('a span.slNoUnderline::text').extract():
                 item['number_of_evaluations'] = result[i].css('a span.slNoUnderline::text').extract_first()
+
+            item['summary'] = result[i].xpath('normalize-space(//span[@class="summary"])').extract_first()
 
             yield item

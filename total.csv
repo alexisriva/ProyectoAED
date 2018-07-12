@@ -1,9 +1,18 @@
 Amsterdam,Big Data,1291
 Amsterdam,Data Science,1211
 Amsterdam,Machine Learning,494
+Atlanta,Big Data,1599
+Atlanta,Data Science,265
+Atlanta,Machine Learning,371
+Austin,Big Data,938
+Austin,Data Science,349
+Austin,Machine Learning,517
 Barcelona,Big Data,417
 Barcelona,Data Science,334
-Barcelona,Machine Learning, 158
+Barcelona,Machine Learning,158
+Belo Horizonte,Big Data,12
+Belo Horizonte,Data Science,8
+Belo Horizonte,Machine Learning,11
 Berlin,Big Data,1022
 Berlin,Data Science,982
 Berlin,Machine Learning,688
@@ -13,9 +22,42 @@ Bogota,Machine Learning,11
 Boston,Big Data,2234
 Boston,Data Science,6702
 Boston,Machine Learning,1271
+Bruselas,Big Data,649
+Bruselas,Data Science,860
+Bruselas,Machine Learning,196
+Budapest,Big Data,302
+Budapest,Data Science,372
+Budapest,Machine Learning,81
 Buenos Aires,Big Data,172
 Buenos Aires,Data Science,167
 Buenos Aires,Machine Learning,178
+Chicago,Big Data,2045
+Chicago,Data Science,333
+Chicago,Machine Learning,640
+Dallas,Big Data,1596
+Dallas,Data Science,225
+Dallas,Machine Learning,454
+Dublin,Big Data,617
+Dublin,Data Science,1184
+Dublin,Machine Learning,259
+Estambul,Big Data,90
+Estambul,Data Science,152
+Estambul,Machine Learning,39
+Estocolmo,Big Data,364
+Estocolmo,Data Science,394
+Estocolmo,Machine Learning,217
+Frankfurt,Big Data,472
+Frankfurt,Data Science,355
+Frankfurt,Machine Learning,170
+Hamburgo,Big Data,324
+Hamburgo,Data Science,280
+Hamburgo,Machine Learning,182
+Houston,Big Data,674
+Houston,Data Science,98
+Houston,Machine Learning,269
+Kiev,Big Data,273
+Kiev,Data Science,262
+Kiev,Machine Learning,110
 Lima,Big Data,25
 Lima,Data Science,19
 Lima,Machine Learning,20
@@ -25,18 +67,33 @@ Lisboa,Machine Learning,132
 London,Big Data,4981
 London,Data Science,5395
 London,Machine Learning,2689
+Los Angeles,Big Data,1592
+Los Angeles,Data Science,306
+Los Angeles,Machine Learning,597
 Madrid,Big Data,528
 Madrid,Data Science,382
 Madrid,Machine Learning,165
 Mexico City,Big Data,195
 Mexico City,Data Science,226
 Mexico City,Machine Learning,60
+Milano,Big Data,284
+Milano,Data Science,322
+Milano,Machine Learning,138
+Moscow,Big Data,171
+Moscow,Data Science,119
+Moscow,Machine Learning,88
+Munich,Big Data,974
+Munich,Data Science,853
+Munich,Machine Learning,578
 New York,Big Data,5397
 New York,Data Science,10074
 New York,Machine Learning,2196
 Paris,Big Data,3707
 Paris,Data Science,1835
 Paris,Machine Learning,1292
+Roma,Big Data,147
+Roma,Data Science,88
+Roma,Machine Learning,51
 San Francisco,Big Data,3867
 San Francisco,Data Science,7657
 San Francisco,Machine Learning,2314
@@ -46,3 +103,15 @@ Santiago,Machine Learning,49
 Sao Paulo,Big Data,274
 Sao Paulo,Data Science,295
 Sao Paulo,Machine Learning,112
+Seattle,Big Data,3593
+Seattle,Data Science,853
+Seattle,Machine Learning,3153
+Vienna,Big Data,162
+Vienna,Data Science,163
+Vienna,Machine Learning,64
+Washington,Big Data,4291
+Washington,Data Science,861
+Washington,Machine Learning,1158
+Zurich,Big Data,330
+Zurich,Data Science,551
+Zurich,Machine Learning,220
