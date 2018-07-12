@@ -13,11 +13,11 @@ class jobItem(Item):
 
 class jobSpider(CrawlSpider):
     name = "jobSpider"
-    allowed_domains=['www.indeed.cl']
-    start_urls=['https://www.indeed.cl/trabajo?q=machine+learning&l=Santiago+de+Chile%2C+Regi%C3%B3n+Metropolitana']
+    allowed_domains=['www.indeed.co.uk']
+    start_urls=['https://www.indeed.co.uk/jobs?q=data+science&l=london']
 
     rules = (Rule(
-            LinkExtractor(allow=(), restrict_xpaths=('//a[span="Siguiente\xa0&raquo"]',)),
+            LinkExtractor(allow=(), restrict_xpaths=('//a[span="Next\xa0»"]',)),
             callback="parse_page",
             follow=True
         ),

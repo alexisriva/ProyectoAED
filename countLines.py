@@ -2,15 +2,19 @@ import sys
 
 """
 Script that counts the number of lines in a file.
-Receives a file name as an argument.
+Receives a file or list of files as argument.
 """
 
-fname = sys.argv[1]
+file_count = []
 
-f = open(fname, 'r')
-count = 0
+for i in range(1, len(sys.argv)):
+    count = 0
 
-for line in f:
-    count += 1
+    f = open(sys.argv[i], 'r')
 
-print(count)
+    for line in f:
+        count += 1
+
+    file_count.append(count)
+
+print(file_count)
