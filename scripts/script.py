@@ -8,7 +8,6 @@ from scrapy.item import Item, Field
 class jobItem(Item):
     job = Field()
     company = Field()
-    number_of_evaluations = Field()
     summary = Field()
 
 
@@ -36,13 +35,8 @@ class jobSpider(CrawlSpider):
                 item['company'] = result[i].css('span.company a::text').extract_first().strip()
             elif result[i].css('span.company::text').extract():
                 item['company'] = result[i].css('span.company::text').extract_first().strip()
-                item['number_of_evaluations'] =  "-"
             else:
                 item['company'] = "-"
-                item['number_of_evaluations'] = "-"
-
-            if result[i].css('a span.slNoUnderline::text').extract():
-                item['number_of_evaluations'] = result[i].css('a span.slNoUnderline::text').extract_first()
 
             item['summary'] = result[i].xpath('normalize-space(//span[@class="summary"])').extract_first()
 
