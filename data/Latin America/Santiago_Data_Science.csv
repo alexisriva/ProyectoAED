@@ -1,44 +1,41 @@
-company,job,number_of_evaluations
-Recruitme Consulting,Data Science IoT,-
-Clear People SPA,Comunidad TI,2 evaluaciones
-IT - Talent,CTO - Líder Técnico Informático,-
-IQVIA,Analista de datos #6327,95 evaluaciones
-Stefanini,Desarrollador Big Data - Data Science,866 evaluaciones
-Datalized,Data Scientist,-
-McKinsey & Company,"Consultant - Advanced Analytics, Operations",360 evaluaciones
-Conversica,Account Executive,-
-SumUp,Payments Operations Manager,-
-Huawei,SVA Operation Manager,2.407 evaluaciones
-"Associated Universities, Inc.",System Astronomer (4339),-
-United Nations,INTERN - LEGAL AFFAIRS [Temporary],484 evaluaciones
-Oracle,Systems Analyst 4-Support,3.933 evaluaciones
-Sovos Compliance,IT Supervisor,-
-ServiceRocket,Technology Consultant,-
-CA Technologies,"Consultant, Presales",697 evaluaciones
-Hortonworks,Associate Technical Support Engineer,-
--,Executive Vice President of Technical Product,-
-United Nations,INTERN - ECONOMIC AFFAIRS [Temporary],484 evaluaciones
-Ericsson,Account Manager Entel,4.889 evaluaciones
-Sovos Compliance,Systems Engineer II,-
-SAS Institute,Pre Sales Academy - Chile,122 evaluaciones
-EXPERIAN,SAS Programmer Senior,783 evaluaciones
-Vacasa,"Software Developer - Providencia/Las Condes, Santiago, Chile",-
-Cisco,Distribution Account Manager,3.867 evaluaciones
-Finning CAT,Senior BW Development,344 evaluaciones
-Cisco,Pre-Sales Systems Engineer,3.867 evaluaciones
-Huawei,Cloud Solution Architect,2.407 evaluaciones
-Progesys,Analista de datos SPSS/JAVA,5 evaluaciones
-Oracle,Solutions Architect,3.933 evaluaciones
-Deloitte,Analyst Developer JAVA,6.667 evaluaciones
-Google,"Customer Engineer, Google Cloud Platform (Spanish)",2.378 evaluaciones
-Veritas Technologies,Strategic Account Manager,252 evaluaciones
-Cisco,Partner Account Manager (PAM) - Service provider,3.867 evaluaciones
-ZeroFOX,Senior Application Developer,-
-Equifax,Subgerente de Infraestructura y Operaciones,433 evaluaciones
-ZeroFOX,Senior Software Engineer,-
-KALE Recruitment,Senior Energy Analyst,-
--,05 May - Test Automation Chief,-
-"TRU Staffing Partners, Inc.","VP, Cybersecurity and ESI Sales",-
-Amazon.com,Sr. Cloud Technical Account Manager - Chile,24.502 evaluaciones
-Vitamin T,Senior Visualization Developer,-
--,26-May - Test Automation Chief Software,-
+company,job,summary
+Arauco,Consultor Digital, Post título en Big Data o Data Science (deseable). Arauco Digital Lab busca dar un salto en la industria de productos forestales a través del diseño de nuevas...
+Planet Expat,CTO," Estrategia de desarrollo y apoyo a equipo de Data Science para escalamiento de modelos de Machine Learning, Heurísticas y algoritmos de optimización de rutas...."
+Uber,Fraud Prevention & Operations Manager," Bachelor’s degree, preferably in data science / informatic / engineering (desirable). Experience interpreting and presenting data to various audiences;..."
+Covance,Clinical Trial Coordinator," One (1) or more years of experience in a related field, (i.e., medical, clinical, pharmaceutical, laboratory, research, data analysis, data management or..."
+SAP,Ariba Deployment Lead - Spend Analysis," Oversee data collection process. Receive client data, validate data internally with the Ariba Data Enrichment Team (ADES Team) and review the data summary with..."
+IQVIA,Clinical Trials Assistant," IQVIA™ is The Human Data Science Company™, focused on using data and science to help healthcare clients find better solutions for their patients...."
+Wesco International,Application Engineer," Employee required to analyze and interpret complex data. Responsible for selling and promotes products, systems, and services requiring technical knowledge of..."
+Page Personnel,BI & Analystics Data Platform Developer," With strong technical skills, ability to communicate, excellent delivery focus and drive, BI and Data Warehousing skills, data modelling:...."
+United Nations,INTERN - LEGAL AFFAIRS [Temporary]," For this internship, field of studies must be related to Law, Political Science and/or International Relations...."
+MonetizeMore,Ad Optimizer - LATAM," Be heavily involved in the core of MonetizeMore by making important ad optimization decisions based on data science techniques, collaborating with a dynamic..."
+Oracle,Systems Analyst 4-Support," Advising on system high availability solutions and design of physical data storage, maintenance, access and security administration;..."
+Sovos Compliance,Systems Engineer II, BA/BS in Computer Science or related field preferred. 1-2 years of experience in NOC or data center operations with customer facing systems....
+Covance,SrCRA/CRA II, Monitor data for missing or implausible data. Query generation and resolution against established data review guidelines on Covance or client data management...
+Mentor Graphics,Software Engineer," BS Computer Science, Computer Engineering, Electrical Engineering, or a related discipline. Understanding of the Electronic Design Automation product domain,..."
+DXC,Senior Electromechanical and Data Center Engineer," Data centers certifications, preferably certifications in Data Center Domain. Relevant experience managing data centers as part of vendor or direct staff of the..."
+Amazon.com,Solutions Architect - Artificial Intelligence," Data science background and experience manipulating/transforming data, model selection, model training, cross-validation and deployment at scale...."
+Banco de Chile,Especialista Gestión Arquitectura Riesgo," Diseñar, implementar y administrar soluciones y modelos predictivos, utilizando técnicas de machine learning y data science...."
+Cisco,Cisco Associate Sales Specialist (Full Time) - Chile," Or master's degree in Business, Sales, Marketing, Communications, Information Technology, Computer Science or Finance...."
+Bechtel,GIS Analyst/Mapper," Ability to work with various GIS and CAD data formats and perform data conversions, data editing, and topology clean-up...."
+SAS Institute,Pre Sales Academy - Chile," Understanding of Unix/ Linux or data warehouse architectures. Provide consultative services, including architecture recommendations to support proposed solution..."
+Citi,IT Project Tech Lead," Bachelor's degree in Business, Science, Engineering or Technology desirable. Work with Local business to understand the business requirements, derive and..."
+Hortonworks,Associate Technical Support Engineer," Hortonworks is an industry leading innovator that creates, distributes and supports enterprise-ready open data platforms and modern data applications that..."
+SumUp,Payments Operations Manager," Execute and improve the payment process for our customers through activities such as data handling, sanity checks, data analysis, insight development,..."
+Entel,Entel está en búsqueda de un Consultor Analitycs," Ingeniería Matemática, Ingeniería Eléctrica, Ingeniería en Computación, Ingeniería Informática, Estadístico (curso o Magister de Big Data, Analytics, Data..."
+Equifax,Software Engineer - Intermediate, As a Big Data Engineer you will be applying computer science and data science knowledge across powerful distributed systems capable of parallel computation in...
+Syneos Health Clinical,CRA II - office based in Santiago (Chile)," You'll be supported with comprehensive resources based on today's emerging technologies, data, science and knowledge - instead of practices from the past...."
+Michael Page,Subgerente Analytics y Business Intelligence," Diseñar, planificar, coordinar y controlar la generación de estudios y modelos de inteligencia de negocios / Data Science...."
+Ingram Micro,Site Support Specialist-CHL," Ensure Data Centers procedures are fulfilled on time and manner. Technical Computer Science degree, Engineering degree desirable or related discipline...."
+ServiceRocket,Technology Consultant," Graduates of Computer Science, Information Technology / Science, Mathematics, Engineering or related technical disciplines...."
+Deloitte,Analyst Developer JAVA," Understanding of object oriented programming, data structures, design patterns &amp; algorithms. Understanding of object oriented programming, data structures,..."
+"TRU Staffing Partners, Inc.","VP, Cybersecurity and ESI Sales"," Digital Forensics, Incident Response, Security Science, Intelligence and Investigations, Data Discovery, Forensic Accounting, Due Diligence, Cyber Insurance and..."
+dunnhumby,Media Business Development Lead (Chile), Data Analysis and Modelling. Dunnhumby is the world's leading customer science company. We analyse data and apply insights from nearly one billion shoppers...
+Bechtel,Senior GIS Analyst/Mapping Engineer," Ability to work with various GIS and CAD data formats and perform data conversions, data editing, and topology clean-up...."
+Equifax,Software Engineer - Career - Team Lead, Equifax's Data &amp; Analytics IT group delivers market-leading software solutions in the areas of Data Science and Analytics in the context of Financial Services....
+ZeroFOX,Senior Software Engineer," Using targeted data collection and artificial intelligence-based analysis, ZeroFOX protects modern organizations from targeted phishing attacks, credential..."
+"Associated Universities, Inc.",ALMA Head of Science Operations," Lead the team responsible for science operations outcomes, science program optimization, data quality assurance and monitoring, and associated budget and..."
+ZeroFOX,Senior Application Developer," Using targeted data collection and artificial intelligence-based analysis, ZeroFOX protects modern organizations from targeted phishing attacks, credential..."
+Honeywell,Sr Solutions Architect," BS/BA degree in information systems, computer science, information technology or a related. Join the industry leader to design the next generation of..."
+Vacasa,"Software Developer - Santiago, Chile", Experiencia en Machine Learning o Data Science. Por qué Vacasa....
+ABB,IT Application Support Engineer," Data Center, Virtualization, Cloud. Degree in Computer Science/ Information Technology /engineering. IT Application Support Engineer...."

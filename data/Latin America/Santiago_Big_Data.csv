@@ -1,99 +1,61 @@
-company,job,number_of_evaluations
-smartjob spa,Consultor Big Data,-
-everis,Arquitecto de Big Data,122 evaluaciones
--,Data Engineer Big Data,-
--,Arquitectos Especialistas en Big Data,-
-Empresa del Rubo Financiero,Chief Data Officer,-
--,Especialista Big Data,-
--,Consultor Big Data,-
-Cencosud S.A.,Analista BIG DATA y BI (AWS) Sistemas,879 evaluaciones
--,MODELADOR DATA RESEARCH (20115),-
--,DATA QUALITY ENGINEER (20489),-
-managementsolutions,CONSULTOR DATA SCIENCE SANTIAGO DE CHILE,35 evaluaciones
-Imagine Consulting,Ingeniero de Proyectos,-
-Coca-Cola Andina,Práctica Proyecto Big Data/ Data Analytics,320 evaluaciones
-Stefanini,Desarrollador Big Data,866 evaluaciones
-Bechtel,Expediter,2.068 evaluaciones
-Stefanini,Desarrollador Big Data - Data Science,866 evaluaciones
-Stefanini,Desarrollador Big Data - Business Intelligence Architect,866 evaluaciones
-Stefanini,Desarrollador Big Data - Data Visualization Specialist,866 evaluaciones
-Bechtel,Trend Engineer,2.068 evaluaciones
-Stefanini,Desarrollador Big Data - Data Architect,866 evaluaciones
-Smartjob,Consultor TI Big Data,-
-GlobalCoach Consultores,Responsable de Ventas TI (BA & Big Data),-
-Adessa Falabella,Analista BigData,8 evaluaciones
-Stefanini,Data Architect.,866 evaluaciones
-everis,Data Engineer,122 evaluaciones
-Coca Cola Andina,Práctica Proyecto Big Data/ Data Analytics,320 evaluaciones
-McKinsey & Company,"Consultant - Advanced Analytics, Operations",360 evaluaciones
-ENGIE Energia Chile,Ingeniera(o) Desarrollo de Aplicaciones,-
-Stefanini,Desarrollador Big Data - Data Architect LEAD,866 evaluaciones
-itPEOPLE,Especialista Big Data SW,-
-The Coca-Cola Company,Jr. Tax Analyst - Chile,7.087 evaluaciones
-Bechtel,Project Engineer Infrastructure,2.068 evaluaciones
-xinergía,Analistas de Datos Bussines Intelligence (PowerBI,56 evaluaciones
-BANCOESTADO CORREDORES DE SEGUROS S A,Analista de Inteligencia de Negocios,-
-Indra Sistemas Chile S.A.,Analista de Base Datos,955 evaluaciones
-Hortonworks,Associate Technical Support Engineer,-
-Adessa Falabella,Arquitecto de Soluciones,8 evaluaciones
--,Subgerente de Tecnología,-
--,Recién Egresado con interés en Base,-
-COCA-COLA EMBONOR S.A.(SANTIAGO),JEFE ANALYTICS COMERCIAL (COCA-COLA EMBONOR),-
-It People Servicios Profesionales.,Analista de Monitoreo y Servicios,-
--,Analista,-
-It People Servicios Profesionales.,Jefe de Proyectos DBA Oracle/DB2,-
-InnerWorkings,Supplier Relations Coordinator,50 evaluaciones
-MASISA S.A.,Jefe Proyectos TI (BI) Analytics,18 evaluaciones
-Equifax,Software Engineer Intermediate,433 evaluaciones
-Masisa,Jefe Proyectos TI (BI) Analytics,48 evaluaciones
-CA Technologies,"Consultant, Presales",697 evaluaciones
--,Jefe de Tecnología,-
-Sodimac SA,Ingeniero de datos/Data Engineer,16 evaluaciones
--,INTEGRATION SPECIALIST (20490),-
-Teradata,Sr Account Executive,-
-ServiceRocket,Growth Marketing Analyst,-
-Cisco,Product Sales Specialist,3.867 evaluaciones
-It People Servicios Profesionales.,Ingeniero de Datos Especialista,-
--,Ingeniero Industrial,-
--,Analista Datos Riesgo Corporativo (20314),-
-managementsolutions,CONSULTOR NUEVAS TECNOLOGÍAS Y TRANSFORMACIÓN DIGITAL SANTIAGO DE CHILE,35 evaluaciones
-Penta Analytics,Ingeniero Senior de Bases de Datos y BI,-
--,Analista BI,-
-Ericsson,Account Manager Entel,4.889 evaluaciones
--,Software Engineer Intermediate,-
-Michael Page,Empresa Multinacional de Consultoría tecnológica,155 evaluaciones
-Bechtel,Field Cost Engineering Lead,2.068 evaluaciones
-Unholster,Python Devs,-
-SAS Institute,Pre Sales Academy - Chile,122 evaluaciones
-It People Servicios Profesionales.,Jefe de Proyectos Senior DBA ORACLE/DB2,-
-Oracle,Master Principal Sales Consultant,3.933 evaluaciones
-Huawei,Cloud Solution Architect,2.407 evaluaciones
-Xinergía,Analistas de datos Business Intelligence #1902,56 evaluaciones
--,Analista de Inteligencia de Negocio,-
-Xinergía,"Analistas de Datos Bussines Intelligence (PowerBI O Tableau) Lenguaje Bash, Python, Ruby, R, SQL, Inglés Intermedio",56 evaluaciones
-Equifax,Application Developer - Santiago de Chile,433 evaluaciones
-Adobe,Project Manager,439 evaluaciones
-Google,"Customer Engineer, Google Cloud Platform (Spanish)",2.378 evaluaciones
-Michael Page,Subgerencia de Informatica,155 evaluaciones
--,Ingeniero informático (Progamado Android),-
-Empresa de Tecnologías de Información,Arquitecto BigData,-
-Progesys,Analista de datos SPSS/JAVA,5 evaluaciones
-Claro Chile,Ingeniero Gestión Clientes,2.226 evaluaciones
-Helpnet Ingeniería de Recursos Humanos Ltda.,Ingeniero de datos,-
-Entel,Entel está en búsqueda de un Analista Analytics,301 evaluaciones
-Empresa de Tecnologías de Información,Ingeniero Especialista BigData,-
-Helpnet Ingeniería de Recursos Humanos Ltda.,9 Analista BI Bigdata,-
-Page Personnel,Desarrollador,110 evaluaciones
-Exalitica,Desarrollador Etl,-
-AppDynamics,Senior Sales Engineer,-
-Entel,Entel está en búsqueda de un Analista BI,301 evaluaciones
-Ubinn,Jefe Proyectos / Desarrollador,-
-TRES60 Digital By Default,Android Developer,-
-Michael Page,Director de Consultoría TI - Industria Transporte,155 evaluaciones
-Sodimac SA,Consultor TI Senior Bigdata,16 evaluaciones
-SONDA IT,Analista funcional Software Service Desk TI,-
-Entel,Entel está en búsqueda de un Analista Senior Inteligencia Negocios,301 evaluaciones
--,05 May - Test Automation Chief,-
--,26-May - Test Automation Chief Software,-
-Vitamin T,Senior Visualization Developer,-
-Expertice-IT,Desarrollador JAVA Senior,-
+company,job,summary
+-,Arquitecto Big Data, hace 23 dias 3500000 Full...
+-,Jefe de Proyecto Big Data, hace 15 dias Full...
+-,Consultor Big Data, ayer Full...
+-,Data Engineer BI / Big Data, hace 28 dias Full...
+managementsolutions,CONSULTOR DATA SCIENCE SANTIAGO DE CHILE," Y herramientas y plataformas de big data (Hadoop, MongoDB, Cassandra, Pig, Hive, etc.). Valorable la realización de estudios específicos de postgrado, en..."
+"INGENIEROS CIVIL INFORMATICOS RECIEN EGRESADO,",INGENIEROS CIVIL INFORMATICOS RECIEN EGRESADO," Buscamos INGENIEROS CIVIL INFORMATICOS RECIEN EGRESADO, que haya participado en algún proyecto en java (estudiantil o laboral) y que tengan ganas de..."
+TenStep Chile,Jefe de Proyecto Big Data, Conocimiento y uso de BIG data idealmente Cloudera. Jefe de proyecto con experiencia dirigiendo proyectos relacionados a Big Data....
+Ericsson,HR Trainee Chile," Keep all human resources data within reach. At Ericsson, we give our employees the freedom to think big and navigate their career, on a global scale...."
+-,BIG DATA SPECIALIST (ADMIN PLATAFORMAS) (21012), hace 7 dias Full...
+Uber,Strategic Retail Partnership Manager - South Cone," Data driven, analytical thinker who is able explore new opportunities through data. Manage the big picture, and the tiny details...."
+Servicios Equifax Chile Ltda.,Ingeniero desarrollador hadoop big data, Aplicar buenas prácticas al codificar utilizando tecnologías Big Data. Desarrollar código de software según los requerimientos utilizando las tecnologías de Big...
+Principal Financial Group,Ingeniero de Plataforma, Big Data CONTRATO Tipo de contrato:. Principal se encuentra en la búsqueda de Ingeniero de Plataformas para su gerencia de Sistemas....
+McKinsey & Company,"Consultant - Advanced Analytics, Operations"," You will communicate data science features and capabilities to internal and external stakeholders, with an eye to identify business needs and uncover areas for..."
+Arauco,Consultor Digital, Post título en Big Data o Data Science (deseable). Arauco Digital Lab busca dar un salto en la industria de productos forestales a través del diseño de nuevas...
+BC TECNOLOGÍA,Consultor Fullstack," Para importante cliente multinacional de Retail, requerimos 2 especialistas que pueden crear aplicaciones y soluciones complejas en BI &amp; Big Data de forma..."
+comScore,Sales Manager Chile," Understanding of the digital marketing ecosystem and the increasing role of how data is leveraged by marketers, agencies, and media companies...."
+Coca-Cola Embonor,JEFE ANALYTICS COMERCIAL," Interés en los temas de analítica avanzada, inteligencia artificial, big data. Coca-Cola Embonor busca incorporar a Ingeniero con experiencia para el cargo Jefe..."
+Deloitte,Gerente de BI," Experiencia profesional en Big Data, Inteligencia Artificial y Gobierno de Datos (requisito preferencial). Desarrollar trabajo comercial, preparar propuestas y..."
+Imagine Consulting,Ingeniero de Proyectos (Data Scientist)," Conocimientos en BI, Big Data, PYTON, C+, C++. Importante empresa multinacional busca Ingeriero de Proyectos (Data Scientist)...."
+Digital Talents,IT Manager," Deseable conocimientos de Big Data y Machine Learning. Auspiciosa startup que desarrolló el primer comparador online gratuito de medicamentos en Chile, busca un..."
+Glovo,Operations Analytics Specialist, No problem is too small or too big. You enjoy deep diving into problems to find the root cause using data. Write queries and perform ad hoc data analysis to...
+Ericsson,"Integration Engineer Networking, Cloud&Infrastructure"," Knowledge on Cloud, Big Data, Disaster Recovery and Security. Sep 3, 2018...."
+EXPERT CHOICE S.A,JEFE DE DESARROLLO PARA EMPRESA TI," Experiencia en NoSQL, databases como MongoDB, ArangoDB, Noe4J, Spark Graph, Redis, AWS, DynamoDB, AWS Aurora, Azure DocumentDB, Azure SQL, Azure SQL Data..."
+Hortonworks,Associate Technical Support Engineer," Enthusiastic about Big Data and the Hadoop ecosystem. Hortonworks is an industry leading innovator that creates, distributes and supports enterprise-ready open..."
+Amazon.com,Solutions Architect - Artificial Intelligence," Data science background and experience manipulating/transforming data, model selection, model training, cross-validation and deployment at scale...."
+IT Hunter,Gerente de Tecnología, Gestión de Datos Big Data. Importante empresa de soluciones tecnológicas....
+Equifax,Application Developer - Santiago de Chile, Design and implementation of technical requirements by Big Data technology uses. Propose improvements and new solutions to any challenge related with Big Data...
+EXPERIAN,Accounting Supervisor, Preferred Big 4 background. Ensures adequate financial controls are in place to meet the company’s compliance and data security standards....
+Imagine Consulting,Ingeniero de Proyectos," BI, Big Data, PYTON, C+, C++. Importante empresa multinacional busca Ingeniero de Proyectos...."
+Digital Talents,Jefe de Advanced Analytics," Deseables conocimientos en Big Data (Hadoop/Cloudera, Spark). Responsable de la ejecución de proyectos asociados a Business Intelligence, Analítica avanzada y..."
+managementsolutions,CONSULTOR NUEVAS TECNOLOGÍAS Y TRANSFORMACIÓN DIGITAL SANTIAGO DE CHILE," Definición de arquitecturas, Big Data, desarrollo de soluciones e implantación de herramientas. Management Solutions es una firma internacional de consultoría,..."
+HR BURO,DBA Administrador de Base de Datos Oracle," Deseable conocimiento de Big Data. Nuestro cliente, empresa del Rubro Financiero, se encuentra en búsqueda de un Administrador de base de datos Oracle para su..."
+JP Morgan Chase,CORP - GTI Technology Support - Associate, Work closely with application team to support the install of various big data application. Technology Support is responsible for the support of business and the...
+Syniverse,International Tax Manager," Bachelor’s degree in Accounting/Finance, CPA and/or Masters in Taxation preferred • 4 years in the Big Four or large multi-state company experience preferred or..."
+Komatsu Cummins,Estudiante Memorista Ingeniero/a de Desarrollo," Tener conocimientos big data y data analytics. Komatsu Cummins Chile, empresa de maquinaria y servicios, líder en experiencia, tecnología y excelencia..."
+U Intelligence SpA,Full-Stack PHP Dev," U Intelligence Soluciones, Servicios de Business Intelligence y Big Data. Somos una empresa con más de 20 años de experiencia en consultoría de Business..."
+Bechtel,GIS Analyst/Mapper," Ability to work with various GIS and CAD data formats and perform data conversions, data editing, and topology clean-up...."
+Intellego Chile Asesorias y Consultoria Ltda,Ingeniero Analista - BigData (Contrato Indefinido), Cursos ITIL V3 y BIG DATA. Nuestro cliente del Rubro Industrial ubicado en el sector norte requiere contratar profesional Ingeniero Civil Informático o...
+Equifax,Software Engineer - Intermediate," Develop software code per the requirements using Big Data technologies. Apply and define good practices, such as, pattern designs and clean code when..."
+EXPERIAN,New Business & Pre-Sales Sales Specialist Lead," Manejo de conceptos de Minería de Datos y Big Data. 4+ años de experiencia en posiciones de preventa de soluciones técnico-analíticas (B2B), o en posiciones de..."
+Medtronic,Sr Strategic Sourcing Specialist - Integrated Health Solutions - Chile, Comfortable in working with MS office and especially MS Excel and big data files. Purpose of the position....
+Bechtel,Expediter," Compiles data needed to prepare the critical items reports, or other supplementary reports as required. Expedites Bechtel engineering for the timely review,..."
+Xinergía,"Analistas de Datos Bussines Intelligence (PowerBI O Tableau) Lenguaje Bash, Python, Ruby, R, SQL, Inglés Intermedio", Conocimiento y experiencia en Big data. Importante empresa de Telecomunicaciones requiere:....
+Entel PCS,Entel Busca Ejecutivo Senior Captura TELCO/TI," Experiencia comprobada en cierre de negocios &gt;200 UF con importante componente TI (cloud, big data, datacenter, cloud) en segmento de clientes de similar..."
+Beat,Head of Marketing, Develop marketing partnerships with big national brands. Take decisions after looking into data and trends and recommend changes to strategies based on analysis...
+Bechtel,Buyer," Accumulates and maintains data for reporting of group metrics. We stand apart for our ability to get the job done right—no matter how big, how complex, or how..."
+Entel,Entel busca un CONSULTOR BI Y BIG DATA en Santiago, Investigar sobre nuevas tecnologías asociadas a BI y Big Data. Capacitar en temas clave en Big Data a los equipos....
+Ansuz,Test Automation Engineer," Además ANSUZ también tiene un equipo I+D, el cual realiza investigaciones sobre las últimas tendencias y buzzoword en tecnologías como Cloud Computing, Big Data..."
+ANALISTA DESARROLLADOR BI,ANALISTA DESARROLLADOR BI," Conocimientos de las principales tecnologías en Big Data Cloudera, Kafka, Hive, Spark,etc. Importante Institución Financiera requiere ANALISTA DESARROLLADOR BI..."
+SAS Institute,Pre Sales Academy - Chile," Provide consultative services, including architecture recommendations to support proposed solution and possess technical aptitude to solve complex big data..."
+Entel,Entel está en búsqueda de un Consultor Analitycs," Ingeniería Matemática, Ingeniería Eléctrica, Ingeniería en Computación, Ingeniería Informática, Estadístico (curso o Magister de Big Data, Analytics, Data..."
+Entel,Entel está en búsqueda de un Analista Analytics, Deseable experiencia laboral en área específica de big data. Desarrollar e implementar análisis que agreguen valor y sean sustentables con Big Data y geo...
+Sodimac,Consultor Senior TI," Conocimientos y experiencia de al menos 3 años en Big Data. Sodimac es una empresa que opera en el retail, industria donde ha alcanzado una posición de..."
+Bechtel,Senior Contract Formation Specialist," Provide Site Manager with reviews and analysis of the (sub)contract financial data. We stand apart for our ability to get the job done right—no matter how big,..."
+Bechtel,Senior Purchasing Specialist," We stand apart for our ability to get the job done right—no matter how big, how complex, or how remote. Reviews and develops other commercial and technical data..."
+Equifax,Software Engineer - Career - Team Lead, Experience with the following big data tools:. Equifax's Data &amp; Analytics IT group delivers market-leading software solutions in the areas of Data Science and...
+Bechtel,Senior GIS Analyst/Mapping Engineer," Ability to work with various GIS and CAD data formats and perform data conversions, data editing, and topology clean-up...."
+KALE Recruitment,Senior Document Controller," Monitor and enforce compliance with the company’s data and document filing system. Manage the company´s onshore data, document and work breakdown structure..."
+Bechtel,Pipeline Construction Manager/Specialist, Experience in gathering relevant detailed data for environmental studies in support of Resource Reports for FERC filing....
+Conecta Media,Desarrollador Backend," Nos orientamos intensamente a integrar innovaciones en tecnologías asociadas a analítica de Big data, text mining y machine learning, buscando acelerar una..."

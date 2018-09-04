@@ -1,30 +1,41 @@
-company,job,number_of_evaluations
-CMR Falabella,Data Science,79 evaluaciones
-Procter & Gamble,Internship - Universidad de Chile,4.391 evaluaciones
-Consorcio Industrial de Alimentos S.A.,Analista Comercial,-
-McKinsey & Company,"Consultant - Advanced Analytics, Operations",360 evaluaciones
-Conversica,Account Executive,-
--,Data Scientist,-
-Adessa Falabella,Arquitecto de Soluciones,8 evaluaciones
--,Ingeniero Industrial,-
-Cencosud S.A.,Jefe de Proyectos Analytics,879 evaluaciones
--,Data engineer,-
-Microsoft,Consultant,4.459 evaluaciones
--,Automation Enginer,-
-MercadoLibre,Ingeniero de Software Mobile,26 evaluaciones
-Datalized,Data Scientist,-
--,Arquitectos Especialistas en Big Data,-
-Stefanini,Data Science,866 evaluaciones
-MercadoLibre,Ingeniero de Software IOS,26 evaluaciones
--,UX Developer,-
-Falabella.com,Data Scientist,1.396 evaluaciones
-Vacasa,"Software Developer - Providencia/Las Condes, Santiago, Chile",-
-Universidad Adolfo Ibáñez,Practicante Ingeniería Civil - Ingeniería Comercial,-
-Michael Page,Senior Director Corp. IoT,155 evaluaciones
-Progesys,Analista de datos SPSS/JAVA,5 evaluaciones
-Entel,Entel está en búsqueda de un Analista Data Science,301 evaluaciones
-Stefanini,Desarrollador Big Data - Data Science,866 evaluaciones
-TRES60 Digital By Default,Android Developer,-
-Oracle,Senior Sales Consultant,3.933 evaluaciones
-Oracle,Master Principal Sales Consultant,3.933 evaluaciones
-SONDA IT,Analista funcional Software Service Desk TI,-
+company,job,summary
+IBM,Junior IT Consultant Chile," Inteligencia Artificial, Machine Learning. Una vez que los Junior IT Consultants reciban el entrenamiento sobre IBM, sus unidades de negocio y nuevas..."
+Komatsu Cummins,Analista Modelamiento de Datos," Haber trabajado con herramientas tales como data mining, machine learning, inteligencia artificial. El Grupo de Empresas Komatsu Cummins surge del resultado de..."
+Walmart Chile,Data Scientist, Manejo y experiencia con modelos de Machine Learning. Extraer conocimiento del comportamiento de nuestros clientes a través del uso de técnicas de Machine...
+Civic Brain (InstaGIS),Data Scientist," Are you excited to generate value through data, machine learning algorithms, and statistics? Civic Brain equips governments with a suite of data-driven tools to..."
+AIRA,Ingeniero Productos Digitales," Definir y Construir KPIs de éxito (operacionales y de estado de Machine Learning). Somos un equipo joven chileno-holandés mojando la camiseta por innovar,..."
+managementsolutions,CONSULTOR DATA SCIENCE SANTIAGO DE CHILE, Tratamiento estadístico de datos (data mining) - Modelización predictiva mediante técnicas de machine learning y data science - Modelización de eventos...
+Procter & Gamble,Sales Intern," Our internships provide an unparalleled learning experience. Brand management, Supply Network Operations and Finance, your manager will coach you and will..."
+Procter & Gamble,Marketing Internship," Our internships provide an unparalleled learning experience, we want you to join us for a career and not just an assignment...."
+Procter & Gamble,Finance Intern," Our internships provide an unparalleled learning experience, we want you to join us for a career and not just an assignment...."
+DESAFIO LATAM,Docente Data Science," Conocimiento en econometría básica y/o Machine Learning. Desafío Latam , Academia de Talentos Digitales, es una academia de educación de entrenamiento intensivo..."
+Wholemeaning,Customer Success Manager," ¿Te gusta el mundo de la Inteligencia Artificial (Machine y Deep Learning)?. Wholemeaning es una compañía chilena, formada en 2012, basada en Chile y con..."
+Digital Talents,IT Manager," Deseable conocimientos de Big Data y Machine Learning. Auspiciosa startup que desarrolló el primer comparador online gratuito de medicamentos en Chile, busca un..."
+Komatsu Cummins Chile Ltda,Analista Modelamiento de Datos," Haber trabajado con herramientas tales como data mining, machine learning, inteligencia artificial. El Grupo de Empresas Komatsu Cummins surge del resultado de..."
+Falabella Chile,Desarrollador," Implementar machine learning a gran escala en ambientes en la nube. Deseable conocimientos técnicos en:Experiencia con bases de datos SQL/NoSQL - DBaaS,..."
+SALESmanago,Business Development Manager," Is a cloud AI &amp; Machine Learning powered marketing automation platform used by over 10 000 companies in 40 countries including Lacoste, Yves Rocher, Starbucks..."
+McKinsey & Company,"Consultant - Advanced Analytics, Operations"," 3+ years of experience in Operations Practice projects related to distributed computing, machine learning, and statistics...."
+Beat,Consumer Insights Specialist," We are a ""product focused - engineering culture"" organisation, with a focus on developing projects such as carpooling, automated pricing, advanced route..."
+Vacasa,"Software Developer - Santiago, Chile", Experiencia en Machine Learning o Data Science. Por qué Vacasa....
+Amazon.com,Solutions Architect - Artificial Intelligence," Are you passionate about Artificial Intelligence, Machine Learning and Deep Learning? Very strong understanding and experience in the field of AI, Machine..."
+Banco de Chile,Especialista Gestión Arquitectura Riesgo," Diseñar, implementar y administrar soluciones y modelos predictivos, utilizando técnicas de machine learning y data science...."
+Asimov Consultores,Ejecutivo Comercial," Machine Learning / Chat bots. En Asimov Consultores®, somos un equipo multidisciplinario de profesionales dedicados a solucionar problemas operacionales y..."
+Entel,Entel está en búsqueda de un Analista Performance," Conocimiento teórico de Machine learning (regresiones, arboles de decisión, etc) (deseable experiencia práctica)...."
+Entel,Entel está en búsqueda de un Consultor Analitycs," Experiencia y conocimiento en metodologías de Data Mining, Machine Learning, Advance Analytics. Entel está en búsqueda de un Consultor Analytics quien será..."
+HUENEI IT CHILE,líder Técnico," Uso de terminal unix Machine Learning (algoritmos, modelación e implementación) Estadística Lenguajes:. Magister en ciencias de la ingeniería Estudios deseable:..."
+MercadoLibre,Ingeniero de Software Mobile," Desde aplicaciones móviles a machine learning, nuestra innovación tiene un claro foco:. En Mercado Libre estamos democratizando el comercio y los pagos en..."
+JEFE PROYECTO LIDER TECNICO,JEFE D PROYECTO LIDER TECNICO," Machine Learning (algoritmos, modelación e implementación). Importante empresa de retail requiere JEFE DE PROYECTO – LIDER TECNICO, con más de 3 años de..."
+Komatsu Cummins,Estudiante Memorista Ingeniero/a de Desarrollo," Conocimientos de machine learning. Komatsu Cummins Chile, empresa de maquinaria y servicios, líder en experiencia, tecnología y excelencia operacional,..."
+Equifax,Software Engineer - Intermediate," Experience / Knowledge in Machine Learning techniques (required). The Software Engineer should be passionate about technology, given it needs to be learning and..."
+Beat,Head of Marketing," We are a ""product focused - engineering culture"" organisation, with a focus on developing projects such as carpooling, automated pricing, advanced route..."
+SimpliRoute,Sales Development Representative," Nuestra plataforma permite a cualquier empresa llevar su logística al siguiente nivel al poder conectar a sus clientes, sus repartidores y administradores en..."
+Michael Page,Product Manager Inteligencia Artificial," Definir y posicionar los diferentes productos de IA dados por la empresa, preocupándose de que estos estén acorde a las innovaciones presentes en el mercado, en..."
+MercadoLibre,Ingeniero de Software IOS," Desde aplicaciones móviles a machine learning, nuestra innovación tiene un claro foco:. En Mercado Libre estamos democratizando el comercio y los pagos en..."
+Helpnet Ingeniería de Recursos Humanos Ltda.,Líder de Inteligencia Artificial," Uso de terminal Linux/Unix, Machine Learning (algoritmos, modelación e implementación), Estadística. Importante empresa del rubro de servicios integrales de..."
+Microsoft,Cloud Solution Architect," You will own the and influence the deployment of key infrastrucre technical customer engagements including: architectural design sessions, specific..."
+TARS technology,Programador, TARS Autonomous Technology is a service and consulting company based on the latest technology related to Machine Learning and Artificial Intelligence....
+DESARROLLADOR SENIOR LIDER TECNICO,DESARROLLADOR SENIOR LIDER TECNICO, Importante empresa de retail requiere DESARROLLADOR SENIOR – LÍDER TECNICO con más de 3 años de experiencia en • PYTHON • NODEJS • JAVA • ORACLE Conocimientos ...
+MercadoLibre,Diseñador Web UX," Desde aplicaciones móviles a machine learning, nuestra innovación tiene un claro foco:. En Mercado Libre estamos democratizando el comercio y los pagos en..."
+Falabella Chile,Data Scientist Planning Falabella Retail," Experiencia en proyectos de Machine Learning (Keras, Scikit-Learn, Tensorflow). Implementar modelos de Machine Learning, aplicados a diversos objetivos del..."
+Conecta Media,Desarrollador Backend," Nos orientamos intensamente a integrar innovaciones en tecnologías asociadas a analítica de Big data, text mining y machine learning, buscando acelerar una..."
+Helpnet Ingeniería de Recursos Humanos Ltda.,Analista Programador Inteligencia Artificial," Uso de terminal Linux/Unix, Machine Learning (algoritmos, modelación e implementación), Estadística. Importante empresa del rubro de servicios integrales de..."

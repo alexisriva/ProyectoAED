@@ -1,43 +1,57 @@
-company,job,number_of_evaluations
-managementsolutions,CONSULTOR DATA SCIENCE BOGOTÁ,35 evaluaciones
-CSG Systems,Business Analyst II - MS,-
-CSG International,Business Analyst II,-
-ME&A (Mendez England & Associates),MEL Specialist,-
-Yellowpepper,Junior QA Analyst,-
-Amazon.com,"Consultant, Big Data (AWS Chile)",24.435 evaluaciones
-MasterCard,"Leader, Product Management Digital Solutions",359 evaluaciones
-Casa Systems Inc,"Systems Engineer II, Mobility (EPC-GW) - CALA",-
-Amazon.com,"Sr. Manager, Solutions Architecture (Colombia, Central America, Caribbean)",24.435 evaluaciones
-The Boston Consulting Group,"Analytics Expert, Team Manager - GAMMA",181 evaluaciones
-Symantec,Sr. Systems Engineer,969 evaluaciones
-Merck KGaA,MEDICAL MANAGER ONCOLOGY,50 evaluaciones
-Google,"Customer Engineer, Google Cloud Platform (Spanish)",2.375 evaluaciones
-Palantir,Business Consultant,-
-Honeywell,Sr Solutions Architect,5.906 evaluaciones
-Halliburton,Entry Level Field Engineer - MWD/LWD,4.436 evaluaciones
-Visa,"Sr. Director, Visa Consulting & Analytics - Andean",587 evaluaciones
-Casa Systems Inc,"Customer Program Manager - CALA (Bogota, Colombia)",-
-Softline International,"Engineer (deployment - VMware, Veeam) - Bogota",-
-dunnhumby,Client Lead,-
-Findasense,Regional Intelligence Lead - Colombia,-
-ME&A - Mendez England & Associates,Chief of Party in Colombia,-
-Vichara Technologies,SAP-BI DEVELOPER,-
-StealthMode,Full Stack Software Engineer,-
-HugeInc,Technical Architect - Python,-
-Uber,Operations & Data Analysis Manager,435 evaluaciones
-Open English USA,Academic Assessment Coordinator,-
-CodaKid,Content Marketing Manager,-
-Belatrix,Bogota - General: Android Developer,-
-Johnson & Johnson Family of Companies,Global Compliance Design Manager,3.212 evaluaciones
-Findasense España,Regional Intelligence Lead,-
-CA Technologies,"Consultant, Presales",696 evaluaciones
-CA Technologies,Escalations Manager,696 evaluaciones
-Microsoft,Software Engineer,4.450 evaluaciones
-CA Technologies,"Manager, Resource & Partner Management",696 evaluaciones
-SAP,Principal/Senior SAP Consultant for Utilities Industry,1.578 evaluaciones
-Johnson & Johnson Family of Companies,Global Compliance Ops Model Lead,3.212 evaluaciones
-Halliburton,Field Engineer I - Optimization,4.436 evaluaciones
-Halliburton,Field Engineer I - MWD/LWD,4.436 evaluaciones
-Halliburton,Field Engineer I - Directional Drilling,4.436 evaluaciones
-Chronos Consulting,Key Account Manager Colombia - Business Analytics Software,-
-Belatrix,Bogota - General: iOS Developer,-
+company,job,summary
+PharmEng Technology,Quality Assurance," B.Sc or higher in Biochemistry, Chemistry, Microbiology or another related science. Develop and administer effective data collection and reporting system to..."
+Novartis,Profesionales De Enlace Medico Cientifico," University degree in life science is mandatory, physician (MD) is desirable but not mandatory; Masters, Doctoral or Post-Doctoral diploma in life science is..."
+United Nations,Information Systems Officer," Maintains a regular review of the network resources access control, data security, and server and data stores security systems;..."
+GlaxoSmithKline,Junior Product Manager," General understanding of media planning, agency management, syndicated data (Nielsen/IMS) and consume. His role gives YOU the opportunity to lead key activities..."
+Google,"Technical Trainer, Infrastructure, Big data and Machine Learning, Google Cloud"," Bachelor’s degree in Computer Science, related field or equivalent practical experience. GCP Professional Data Engineer and/or GCP Professional Cloud Architect..."
+Code Pilot,Developer," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (algorithms, design..."
+Code Pilot,Software Developer," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (algorithms, design..."
+Code Pilot,PHP Software Engineer," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (""inversion of control"",..."
+Halliburton,Entry Level Field Engineer - MWD/LWD," Must possess good communication, arithmetic, data entry and recording skills. Requires ability to read and interpret formation well logs and interpret..."
+DuPont,Business Process Pricing Specialist, Experience in using data extraction/ management tools with strong data analysis skills. Market share calculation an analysis comparing to previous data....
+GlaxoSmithKline,Respiratory Group Medical Manager, Our area of Medical is characterized to be the Strategic Partner to communicate our data in adequate manner to internal and external community and bring the...
+CSG Systems,Billing Analyst I," Computer Science or Engineering. Maintain customer data in Oracle database, manage multiple ticketing systems...."
+CSG International,Billing Analyst I," Computer Science or Engineering. Maintain customer data in Oracle database, manage multiple ticketing systems...."
+Code Pilot,Application Developer," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (algorithms, design..."
+Halliburton,Field Engineer I - Directional Drilling," Must possess good communication, arithmetic, data entry and recording skills. Maintains records of all DD equipment at well site including dimensional data and..."
+Covance,Columbia - Sr CRA/CRA II -, Monitor data for missing or implausible data. Query generation and resolution against established data review guidelines on Covance or client data management...
+Halliburton,Field Engineer I - MWD/LWD," Must possess good communication, arithmetic, data entry and recording skills. Ensures that expected and needed data and possible problems are provided to the..."
+CSG Systems,Business Analyst I," Computer Science, Engineering or related. Experience in Quality Assurance and Data Analysis of all project materials...."
+CSG International,Business Analyst I," Computer Science, Engineering or related. Experience in Quality Assurance and Data Analysis of all project materials...."
+Open English USA,Academic Assessment Coordinator," Data visualization experience. Apply excellent data analytic skills to the data management, statistical modeling, and the interpretation...."
+Halliburton,Demand Planner, Develop strategies to optimize inventory performance by analyzing market data and inventory trends. We are looking for the right people — people who want to...
+MonetizeMore,Ad Optimizer - LATAM," Be heavily involved in the core of MonetizeMore by making important ad optimization decisions based on data science techniques, collaborating with a dynamic..."
+Code Pilot,Application Engineer - PHP," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (""inversion of control"",..."
+NCR,Payments Technical Consultant," BSc in technical science or mathematics. Configuring screen update, receipt and journal data. Configuration of ATM driving system which means setting up data..."
+"Ian, Evan & Alexander Corporation",Strategic Communications and Policy Planning Assistant," Demonstrated four (4) years related experience in the fields of public affairs, policy, political science, or journalism...."
+Palantir,Business Consultant," Supporting, functional and user acceptance testing, and working with the Support team in terms of software implementations data integration, data loading..."
+dunnhumby,Client Lead, Data Analysis and Modelling. Dunnhumby is the world's leading customer science company. We analyse data and apply insights from nearly one billion shoppers...
+dunnhumby,Client Lead (Bogota), Data Analysis and Modelling. Dunnhumby is the world's leading customer science company. We analyse data and apply insights from nearly one billion shoppers...
+Code Pilot,Full Stack Software Engineer," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (algorithms, design..."
+Code Pilot,"Software Engineer - Full Stack, Bogota"," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (algorithms, design..."
+Code Pilot,Senior Software Engineer," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (algorithms, design..."
+Meico,Data Business Analyst," We are looking for a Data business analyst, BS or MS Degree in computer Science, Statistics, Mathematics, another quantitive field or equivalent experience, 6+..."
+Code Pilot,PHP Software Developer," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (""inversion of control"",..."
+dunnhumby,Associate Client Lead, Data Analysis and Modelling. Dunnhumby is the world's leading customer science company. We analyse data and apply insights from nearly one billion shoppers...
+Oracle,Solutions Architect," • Computer Science or Engineering required. • MBA, Computer Science, and/or Engineering/Math background highly desired;..."
+Google,"Customer Engineer, Google Cloud Platform (Spanish)"," Master's degree in Computer Science or other technical field with experience with Big Data, PaaS, and IaaS technologies...."
+Bristol-Myers Squibb,Scientific Advisor, Or Science graduate with substantial and relevant pharmaceutical experience. The scientific advisor role is a field/office role aimed to engage in influential...
+Casa Systems Inc,"Systems Engineer II, Mobility (EPC-GW) - CALA"," Undergraduate degree in Electrical Engineering, Computer Science, Engineering or related technical discipline. As the original supplier of commercially deployed..."
+Belatrix,Bogota - General: Android Developer," Bachelor's degree in computer science, systems, software engineering or related fields (preferably). Extensive knowledge of programming (OOP, data structures,..."
+DDL Insight,Ruby on Rails Developer," Data modeling and server-side experience a major plus. BS/MS degree in Computer Science, Engineering or in related field...."
+Code Pilot,PHP Developer," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (""inversion of control"",..."
+DDL Insight,PHP Developer," Utilize backend data services and contribute to increase existing data services API. BS/MS degree in Computer Science, Engineering or a related subject...."
+Amazon.com,Sr. Cloud Technical Account Manager - Colombia," Operations and related areas such as Linux/Windows systems administration, DevOps, Data Analytics and more. At AWS Enterprise Support we’re looking for a Senior..."
+Chronos Consulting,KEY ACCOUNT MANAGER – BUSINESS ANALYTICS SOFTWARE," Chronos Consulting’s client is a leader in generating advanced analysis and data science solutions, with a focus in higher education, media , entertainment and..."
+Sutherland,Voice Engineer," Bachelor Degree in Science or technology is preferred. Be able to interpret data, identify trends, and make suggestions for improvements...."
+Code Pilot,Developer - PHP," We are Code Pilot, a data science company with the mission to change the hiring process. Passion for professional software development (""inversion of control"",..."
+Democracy International,Project Director – USAID/Colombia Complexity –Aware Monitoring and Evaluation Activity," A master’s degree in a sector relevant to political science, sociology, economics, public policy, or related science;..."
+Yara UK Ltd.,Regional IT Infrastructure Manager," Data Analysis for Financial Data and IT Service Metrics. Data Center Operations and Design. Postgraduate studies in IT Management, Project Management or..."
+Belatrix,Bogota - General: iOS Developer," Bachelor's degree in computer science, systems, software engineering or related fields (preferably). Extensive knowledge of programming (OOP, data structures,..."
+Amazon.com,"Sr. Manager, Solutions Architecture (Colombia, Central America, Caribbean)"," Computer Science or Math background highly desired. Guide and motivate the development of whitepapers, data sheets, and other high-value customer facing..."
+DDL Insight,UX Researcher/Designer, Data about current feature usage and platform adoption. Our team focuses on developing and improving the digital learning platform used by training....
+CodaKid,Content Marketing Manager, Deliver a weekly/monthly report on SEO performance and provide executive data as required. White Papers - research and write a series of downloadable white...
+Polymath Ventures,Lead Developer, Our platform includes user-facing web and mobile application elements as well as a significant data collection and analysis backend....
+DDL Insight,DevOps Engineer," In Computer Science or related majors or similar work experience. Familiarity with diagnostic troubleshooting and monitoring tools, monitoring/management..."
+Casa Systems Inc,Senior Systems Engineer (vBNG-PON) CANSAC," Undergraduate degree in Electrical Engineering, Computer Science, Computer Engineering or equivalent technical discipline...."
+Carestream Health,Sales Operations & Compensation Coordinator - Andina-CALA-Chile," B) Bachelor degree in Business, Finance, IT or Science. J) Strong analytical skills and ability to convert data into management information with focus on..."

@@ -3,6 +3,7 @@
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from scrapy.item import Item, Field
+from functions import normalize_whitespace
 
 
 class jobItem(Item):
@@ -13,11 +14,11 @@ class jobItem(Item):
 
 class jobSpider(CrawlSpider):
     name = "jobSpider"
-    allowed_domains=['co.indeed.com']
-    start_urls=['https://co.indeed.com/jobs?q=big+data&l=Bogot%C3%A1%2C+Distrito+Capital%2C+Cundinamarca']
+    allowed_domains=['www.indeed.fr']
+    start_urls=['https://www.indeed.fr/emplois?q=machine+learning&l=Paris']
 
     rules = (Rule(
-            LinkExtractor(allow=(), restrict_xpaths=('//a[span="Siguiente\xa0&raquo"]',)),
+            LinkExtractor(allow=(), restrict_xpaths=('//a[span="Suivant\xa0»"]',)), #Next\xa0&raquo»
             callback="parse_page",
             follow=True
         ),
@@ -38,6 +39,6 @@ class jobSpider(CrawlSpider):
             else:
                 item['company'] = "-"
 
-            item['summary'] = result[i].xpath('normalize-space(//span[@class="summary"])').extract_first()
+            item['summary'] = normalize_whitespace(' '.join(result[i].css('span.summary').extract_first().split()))
 
             yield item

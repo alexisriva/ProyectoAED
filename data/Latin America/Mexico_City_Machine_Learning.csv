@@ -1,34 +1,46 @@
-company,job,number_of_evaluations
-Mahisoft,Software Engineer (Backend),-
-EPAM Systems,Big Data Support Engineer,123 evaluaciones
-Cliber,¿Dominas Javascript? Tenemos vacantes interesantes.,-
-Page Personnel México,Data Scientist Junior - Empresa mexicana,111 evaluaciones
-McKinsey & Company,"Solution Delivery Analyst - Periscope, New Ventures",361 evaluaciones
-"Services & Processes Solutions, S.A. de C.V.",Becario/Desarrollador/Integrador de aplicaciones,-
-Microsoft,Partner Technical Consultant,"4,485 evaluaciones"
-EPAM Systems,NoSQL Database Administrator - Support Engineer,123 evaluaciones
-EPAM Systems,BI Support Engineer,123 evaluaciones
-EPAM Systems,ETL Support Engineer,123 evaluaciones
-Sanofi,Digital Supply Chain Manager,"2,687 evaluaciones"
-Microsoft,Cloud Solution Architect,"4,485 evaluaciones"
-ESTRATEGIA TECNOLOGICA,Big Data,-
-Cognizant,QE Team Lead,"9,959 evaluaciones"
-Find a Sense,Regional Intelligence Lead,-
-TERSS Headhunting $ Outplacement,Lead BIG DATA SUPPORT Engineer,-
-Citi,Centers of Expertise (COE) Director,"13,834 evaluaciones"
-Emerald Technology,Sales Director,-
-Conekta,Data Architect,-
-Konfio,Data Scientist,-
-Ritter,Data Scientist Jr,-
-Boletia,Analista de Fraude Junior,-
-Mirai,CONSULTANT- BIG DATA,-
-NOVA SOLUTIONS SYSTEMS,DATA SCIENTIST/PERFORMANCE SPECIALIST,-
-Intélite,FULL STACK DEVELOPER,19 evaluaciones
-Pulpomatic,Technical Leader,-
-Services & Processes Solutions S. A. de C.V.,Becario IT,-
-NOVA SOLUTIONS SYSTEMS,Business Intelligence / Marketing Digital,-
-AYALO SAPI DE CV,Back End Engineer,-
-Piu Capital,"Iot Architect $35,000 a $45,000. L-V de 9:30am a 6:30pm. Polanco",-
-Mirai,SENIOR CONSULTANT- BIG DATA,-
-Cliber,Chief Technology Officer,-
-Cliber,Javascript Developers,-
+company,job,summary
+Taxibeat,Operations Agent," We are a “product focused - engineering culture” organisation, with a focus on developing projects such as carpooling, automated pricing, advanced route..."
+Ericsson,Network Engineer," Lead initiatives for building new tools focused on customer experience and based on big data, Machine Learning and cloud. Aug 22, 2018...."
+Aspen Technology,Principal Engineer, Experience with machine learning is a plus. Aspen Technology is the world's leading supplier of software for optimizing process engineering and manufacturing....
+Walmart,GERENTE/A DIV E-COMMERCE - DATA SCIENTIST LEAD," Machine Learning,R, Sas, Tableau. A) Supervisar la selección de features, construcción y optimización de clasificadores usando técnicas de machine learning...."
+Amazon.com,Knowledge Engineer, Working with the teams of developers and machine learning scientists to enhance the existing technology and invent new techniques....
+Abaco.MX,Ingeniero en Tecnologías (Marketing Digital)," Machine learning teórico. Si te apasiona solucionar problemas complejos por medio de la gestión e interpretación de datos y sabes determinar, así como controlar..."
+McKinsey & Company,"Data Specialist - Periscope, New Ventures"," Knowledge of data mining, machine learning and statistical modelling is preferred. At least 5-8 years of experience in the field of business intelligence and..."
+Cognizant,QE Team Lead," Test Manager • Qualification:Graduate (Bachelors Degree in Computer Science or in STEM Majors (Science, Technology, Engineering and Math) or related field)...."
+Aspen Technology,Sr Engineer, Experience with machine learning is a plus. Aspen Technology is the world's leading supplier of software for optimizing process engineering and manufacturing....
+STARTPOINT MEXICO,Fullstack Web Developer / Home Office, Experience working with graphic designers and converting designs to visual elements Experience with Machine Learning....
+Aspen Technology,"Manager, Software Development", Experience with machine learning is a plus. Aspen Technology is the world's leading supplier of software for optimizing process engineering and manufacturing....
+Page Personnel México,Data Scientist Junior - Empresa mexicana, Licenciatura en Sistemas o carrera afín.Experiencia en algoritmos por machine learning. Experiencia en programación y bases de datos....
+Google,"Technical Trainer, Infrastructure, Big data and Machine Learning, Google Cloud"," Deliver technical training from the Google Cloud Platform Curriculum, in particular the Infrastructure and Data and Machine Learning tracks, to diverse..."
+SPOT CONSULTORÍA SC,PRINCIPAL SOFTWARE ENGINEER," SPOT - SOFTWARE &amp; IT PRO. Consultoría en TI, Staffing, Productos Spot Con más de 17 años de experiencia brindando soluciones en TI al sector financiero y..."
+Amazon.com,Big Data and Analytics Specialist Solution Architect," Experience with Statistics and Machine Learning. Do you have Data Warehousing, Hadoop/Spark/EMR, Machine Learning and/or Real Time Event Processing experience?..."
+EPAM Systems,BI Support Engineer," Experience in popular technologies in the machine learning/big data ecosystem. You are curious, persistent, logical and clever – a true techie at heart...."
+Cognizant,Test Lead Admin," Test Manager • Qualification:Graduate (Bachelors Degree in Computer Science or in STEM Majors (Science, Technology, Engineering and Math) or related field)...."
+EPAM Systems,ETL Support Engineer," Experience in popular technologies in the machine learning/big data ecosystem. You are curious, persistent, logical and clever – a true techie at heart...."
+EPAM Systems,Big Data Support Engineer," Experience in the popular technologies in the machine learning/big data ecosystem. You are curious, persistent, logical and clever – a true techie at heart...."
+EPAM Systems,NoSQL Database Administrator - Support Engineer," Experience in popular technologies in the machine learning/big data ecosystem. You are curious, persistent, logical and clever – a true techie at heart...."
+McKinsey & Company,"Solution Delivery Analyst - Periscope, New Ventures"," Experience of working with large databases, data visualization tools, machine learning and statistics is a plus...."
+TERSS Headhunting $ Outplacement,Lead BIG DATA SUPPORT Engineer," Data Science and Analytics experience is a plus (Machine Learning, Recommendation Engines, Search Personalization)...."
+Conekta,Analista Antifraude Sr," Certificación o diplomado a nivel básico o intermedio en ciencia de datos o machine learning, o de desarrollo de software...."
+Impulsa México,CTO, Somos una startup que se dedica al desarrollo de una plataforma de gestión para el análisis de datos de redes sociales en campañas de marketing digital....
+DGA technology consulting,Data Analyst, Data Analyst idioma inglés Lic. Matemáticas Aplicadas en computación capacidad analítica conocimiento de R y Phyton modelacion basicos de Machine...
+Reclu IT,Machine Learnign," En Reclu IT, nos encontramos en busqueda de Machine Learning para empresa numero uno en Retail a nivel global. Contacto de mas de un año con R Y Python...."
+Gus Chat,Chatbot Developer, ¿Te gustaría formar parte de una startup mexicana de inteligencia artificial con fuerte crecimiento y tracción? En Gus queremos desarrollar los mejores...
+Bluetab Solutions México,Consultor BI," Titulado en Computación, informática o afín. Con al menos 2 años de experiencia profesional. Conocimientos indispensables: - Unix Avanzado. - Programación..."
+RightSource,Hardware Emulation Engineer, The new members will have the opportunity to work in a talented company of computing startup focused on building machine learning and big data analytics...
+Beat,Operations Agent," We are a ""product focused - engineering culture"" organisation, with a focus on developing projects such as carpooling, automated pricing, advanced route..."
+Seashine Adventures,Sales Representative & Customer Care," You will be learning on the go and updating your skillset as we grow. Proficient with computers and digital services like Airtable, Help Scout, Slack, Evernote..."
+Beat,Customer Experience Representative," We are a ""product focused - engineering culture"" organisation, with a focus on developing projects such as carpooling, automated pricing, advanced route..."
+Reclutamiento IT,"Técnico instalador cableado, ingeniero cableado estructurado"," Estabilidad laboral, económica y opciones de crecimiento, desarrollamos soluciones para la industria aeroespacial, Big Data, Machine Learning y soluciones..."
+Yalo,Back End Engineer," You will be surrounded by DOERs working on Machine Learning, NLP, Highly Scalable Infrastructure, and Product/UX...."
+Consultoria de TI (PRAXIS),DESARROLLADOR CANALES - Masaryk," Learning como Python y Tensor Flow. Conocimiento de herramientas de Machine. PRAXIS, importante consultoría en TI certificada bajo el CMMI5 solicita:...."
+Ventasprof,Stack Python Developer, Tenemos planes de mejorar nuestra tecnología atreves de inteligencia artificial y machine learning. Somos la la primera plataforma digital de reclutamiento y...
+PMG SOLUCIONES INTEGRALES S.A. DE C.V.,Desarrollador de Aplicaciones Móviles, Conocimiento de herramientas de Machine Learning y Tensor Flow (deseable). Ingeniería en Sistemas / Informática o afines....
+Mirai,CONSULTANT- BIG DATA," - Conocimientos de Machine Learning:. BI Geek es una consultoría de desarrollo Software, enfocada exclusivamente en el ámbito del Business Intelligence, Big..."
+Yalo,People Operations Manager, Yalochat uses deep learning (a machine learning technique) to have its solutions learn from their human counterparts to continuously improve the experience....
+Globant,Sr Cloud Engineer (Azure)," Globant Custom AMI (Amazon Machine Image). At Globant, we dream and build Digital Journeys that matter to millions of users...."
+LAAgencia,Fullstack Developer," Desarrollador Go, Phyton, C++, Javascrip y PHP, AngularJS, Firebasic, Apache Cordova, todos orientados al concepto de Machine Learning...."
+LAAgencia,Desarrollador Fullstack," Desarrollador Go, Phyton, C++, Javascrip y PHP, AngularJS, Firebasic, Apache Cordova, todos orientados al concepto de Machine Learning...."
+Reclutamiento IT,"Desarrollador BI, Consultor Power BI, Analista BI"," Creemos que la tecnología, nos gusta la innovación y hacer una diferencia, por ello, somos socios de fabricantes líderes como Microsoft, Amazon o IBM, en..."
+Mirai,SENIOR CONSULTANT- BIG DATA," - Conocimientos de Machine Learning:. BI Geek es una consultoría de desarrollo Software, enfocada exclusivamente en el ámbito del Business Intelligence, Big..."
+SALESmanago,Business Development Manager," Is a cloud AI &amp; Machine Learning powered marketing automation platform used by over 10 000 companies in 40 countries including Lacoste, Yves Rocher, Starbucks..."

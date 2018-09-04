@@ -1,434 +1,418 @@
-company,job,number_of_evaluations
-Booking.com,Data Scientist - Machine Learning,413 reviews
-McKinsey & Company,Data Scientist - McKinsey Analytics,361 reviews
-McKinsey & Company,Manufacturing Data Scientist - McKinsey Analytics,361 reviews
-EY,Big Data Scientist.,5.232 reviews
-oxilary,Pragmatic Data Scientist,-
-TomTom,Data Scientist,41 reviews
-Cognizant,Data Scientist,9.959 reviews
-Van Lanschot,Data Scientist,15 reviews
-Van Lanschot Kempen,Data Scientist,-
-mediaan,Data Scientist,-
-Optiver,Data Scientist,10 reviews
-Templeton and Partners,Data Scientist,-
-Universiteit van Amsterdam,PhD candidate or Postdoctoral researcher in Machine Learning & Deep Learning,19 reviews
-Align Technology,BI Analyst,-
-McKinsey & Company,"Data Scientist - Ingenuity, McKinsey Solutions",361 reviews
-mediaan,Software Engineer Junior,-
-Liberty Global,Data Scientist,30 reviews
-Cognizant,Graduate Analyst - Junior Business Analyst / Junior Business Intelligence consultant,9.959 reviews
-Bloomon,Data Scientist - Customer Analytics,-
-Atos,Junior Data Scientist (P),1.626 reviews
-Uber,"Data Scientist I, Tech",-
-Synechron,Data Scientists,-
-Magno IT,NLP Scientist,-
-De Persgroep,Big Data Engineer (English),76 reviews
-De Persgroep,Big Data Engineer,76 reviews
-3D Hubs,Data Engineer,-
-MessageBird,Data QA Engineer,-
-MessageBird,Data Engineer,-
-3D Hubs,Software Engineer,-
-Henkel AG,Data Analyst,374 reviews
-AnalysePeople,Big Data Engineer – Media,-
-DANONE,Global Digital Data Scientist,887 reviews
-TomTom,Software Engineer for Autonomous Driving Tooling,41 reviews
-Google,"Strategic Cloud Data Engineer, Google Cloud Professional Services",2.392 reviews
-oxilary,Data science – FinTech,-
-Elsevier,VP Data Science,469 reviews
-Albert Heijn,Data Scientist Albert Heijn Datakitchen,2.000 reviews
-Albert Heijn,Data Scientist,2.000 reviews
-AnalysePeople,Global Data Scientist | FMCG | Amsterdam,-
-AnalysePeople,Data Scientist – Internet – Amsterdam (Dutch Speaking),-
-Antoni van Leeuwenhoek Ziekenhuis,Postdoc Data Scientist in radiotherapy,6 reviews
-Eaglecliff,Data Scientist,-
-AFM,Data Science Traineeship,-
-Microsoft,WE HQ: Data Solution Architect - Retail,4.486 reviews
-AnalysePeople,1 jarig Traineeship – Data Science/Advanced Analytics – Luchtvaart,-
-IBM,Infrastructure and Platform Architect,21.725 reviews
-Elsevier,Knowledge Graph Scientist,469 reviews
-eBay Inc.,Software Engineer,1.395 reviews
-DXC,"Technical Consultant - Big Data, Analytics & Data Management",1.377 reviews
-AnalysePeople,Big Data developer – Banking,-
-Textkernel,Data Consultant,-
-Triple A - Risk Finance,Consultant Data Analytics,-
-Expand Online,Data Consultant,-
-PwC,Consultant Data Analytics,5.524 reviews
-Deptagency,Data Consultant,-
-KPMG,Consultant Data Science,4.383 reviews
-KLM,Operations Research Specialist,253 reviews
-Ziggo,Sr Data Scientist,2.455 reviews
-VodafoneZiggo,Sr Data Scientist,2.455 reviews
-Universiteit van Amsterdam (UvA),PhD candidate or Postdoctoral researcher in Machine Learning & Deep Learning,-
-IceMobile,Power BI Engineer,-
-Cognizant,Graduate Analyst - Automation Consultant,9.959 reviews
-ABN AMRO Bank,Quantitative Risk Analyst,1.008 reviews
-Dept,Data Consultant,-
-Digital Source,R&D Engineer Autonomous Driving ML/Computer Vision,-
-ABN AMRO Bank,Senior Data Scientist,1.008 reviews
-Knab,Lead Data Scientist,-
-Textkernel,Big data software engineer,-
-Deloitte,Manager Data Science,6.694 reviews
-Harnham,DATA SCIENTIST- MACHINE LEARNING ENGINEER,-
-PwC,Robotics (RPA) specialist,5.524 reviews
-AnalysePeople,Lead Data Scientist | Financieel | Amsterdam,-
-Deloitte,IoT Engineer Consultant,6.694 reviews
-eBay Inc.,Technology Analyst,1.395 reviews
-Elsevier,NLP Specialist,469 reviews
-Universiteit van Amsterdam,Onderwijsassistent Kunstmatige Intelligentie,19 reviews
-Pegasystems,Principal Software Engineer,-
-McKinsey & Company,Senior Data Scientist - McKinsey Analytics,361 reviews
-McKinsey & Company,Manufacturing Senior Data Scientist - McKinsey Analytics,361 reviews
-Payments & Cards Network,Senior Data Scientist (Freelance),-
-AnalysePeople,Senior Data Scientist | Publisher | Amsterdam,-
-AnalysePeople,Senior Data Scientist – Intelligente Apps,-
-Deloitte,IoT Engineer Manager,6.694 reviews
-Devoteam,Big Data / Scala Developer,-
-AnalysePeople,Medior/Senior Data Scientist | Online Media | Amsterdam,-
-Deloitte,Big Data Manager,6.694 reviews
-KPMG,Commerciële Sr. Consultant Data & Analytics,4.383 reviews
-Textkernel,Commercial Trainee / Junior Consultant,-
-AnalysePeople,Senior Data Scientist – Financial institute – Amsterdam,-
-Darwin Recruitment,Scala Developer - Machine learning platform - €70K,-
-Universiteit van Amsterdam,Six Lecturers Artificial Intelligence / Information Studies,19 reviews
-Sinai Centrum,Promovendus,3 reviews
-Optiver,Algorithmic Trader,10 reviews
-SoftwareONE,TBDM,-
-NKI-AVL,Computational biologist: tumor immunology,4 reviews
-Service Driven Professionals,"Data Warehousing Architect, AWS",-
-Service Driven Professionals,"MS SQL Database Administrator, big data environment",-
-Universiteit van Amsterdam,PhD candidate in Academic Search,19 reviews
-Universiteit van Amsterdam,PhD candidate in Entrepreneurship & Innovation,19 reviews
-NLR,Enthousiaste Datascientist die houdt van programmeren,-
-Steps,Online Marketeer,19 reviews
-Senfal,Vacature: Energie Data-Analist,-
-ServiceNow,"Solution Consultant, Platform",-
-Deloitte,"Manager Analytics (Energy, Resources and Manufacturing Industry)",6.694 reviews
-Universiteit van Amsterdam (UvA),PhD candidate in Academic Search,-
-Universiteit van Amsterdam (UvA),PhD candidate in Entrepreneurship & Innovation,-
-Darwin Recruitment,Data Scientist - HR Analytics,-
-Darwin Recruitment,Data Scientist,-
-Knab,"Data Engineer (Datalab, Python, Java / Scala, ETL, AWS)",-
-Deloitte,(Senior) Manager Data Strategy & Governance,6.694 reviews
-Cognizant,Graduate Analyst - Robotics & Intelligent Process Automation Insurance,9.959 reviews
-eBay Inc.,Senior Data Scientist,1.395 reviews
-EY,Manager Forensic Data Analytics,5.232 reviews
-Textkernel,Agile Coach / Scrum Master,-
-Xccelerated,Data Science Accelerator bij Xccelerated (Junior),-
-Cmotions Recruitment,Data Scientist Conversie Optimalisatie,-
-Wortell,Data & AI Consultant,-
-Bright Computing,Senior Sales Professional EMEA,-
-Textkernel,Product Manager,-
-VUmc,Klinisch Dataspecialist,33 reviews
-NKI-AVL,Master Student - Convolutional neural networks for localization of high-grade prostate cancer using quantitative MRI,4 reviews
-Deloitte,Consultant Regulatory Analytics,6.694 reviews
-Arkin,Promovendus,11 reviews
-KPMG,Scriptant Cyber,4.383 reviews
-Koning & Hartman,Consultant Industrial Automation,6 reviews
-Textkernel,"Shape the development of AI and HR Technology: opportunities in engineering, product management, consultancy, and sales",-
-Uber,Data Science Manager,-
-Harnham,DATA SCIENTIST- ENGINEERING,-
-Universiteit van Amsterdam,Assistant or Associate Professor in Big Data Statistics and Econometrics for Business,19 reviews
-Microsoft,Cloud Solution Architect,4.486 reviews
-Magno IT,Python Developer - monitoring tool video services,-
-Growth Tribe,Execution Driven Growth Hacker Intern,-
-Philips,Senior Data Scientist Finance & Supply Chain,2.724 reviews
-Pegasystems,Test Automation Engineer,-
-Triple A - Risk Finance,Junior/Medior Consultant Data Analytics,-
-CareerValue,"Full stack .NET development consultant IoT, Machine Learning",3 reviews
-Joolz,Product Development Internship,-
-Digital Source,Data Engineer,-
-AnalysePeople,Marketing Intelligence Specialist | Uitgeverij | Amsterdam,-
-Fahr-Becker,Software Engineer AI,-
-Textkernel,Application Support Engineer,-
-Digital Source,Data Analyst,-
-Vrije Universiteit Amsterdam,Postdoc position in Predictive Analytics,27 reviews
-McKinsey & Company,Digital Consultant,361 reviews
-mediaan,Software Engineer Medior / Senior,-
-Madison Parker International,Data Science,-
-Henkel AG,Business Science Manager,374 reviews
-Antoni van Leeuwenhoek Ziekenhuis,Software developer Radiotherapy Treatment Planning,6 reviews
-Splunk,Go-To-Market Manager – MSP & GOSI Alliances,-
-TomTom,"Product Manager, Autonomous Driving",41 reviews
-KPMG,Senior Consultant Big Data Engineer,4.383 reviews
-Textkernel,Partner Manager Benelux,-
-Valtech,Data Technology Director,51 reviews
-AnalysePeople,Medior Data Scientist | Online Marketing Bureau,-
-Pegasystems,Senior Solutions Consultant,-
-Deloitte,Manager Regulatory Risk,6.694 reviews
-Claudia Sträter Benelux (FNG Group BE),Fulltime Online Marketeer,-
-CareerValue,"Lead Data Scientist bij Data Science startup, uniek!",3 reviews
-ChipSoft,Stage: Ontwerp een ‘Intrusion Detection Systeem’,4 reviews
-Universiteit van Amsterdam,Assistant professor Multiscale Scientific Computing,19 reviews
-TomTom,System Administrator (GPU/HPC Cluster),41 reviews
-ING,Senior Risk Scientist,1.460 reviews
-Atos,Graduates for engineering positions Amstelveen,1.626 reviews
-KPMG,Senior Engineer Big Data Technology,4.383 reviews
-EF Corporate Solutions,Customer Success Manager,-
-Werkspot,Sr. Product manager Core consumer experience,8 reviews
-ChipSoft,Stage: Zoekfilters genereren op basis van ‘natural language’,4 reviews
-VYE Professionals,Lead Data Scientist - Amsterdam,-
-Bright Computing,DevOps Engineer - NL,-
-Service Driven Professionals,"Data Warehouse Architect, BI Cloud environment",-
-CodeGuild,"Core Java Developer Machine Learning, Big Data, Amsterdam",3 reviews
-ABN AMRO Bank,IT Internship - Improving search relevancy,1.008 reviews
-CareerValue,Data Engineer a.k.a puzzelaar met consultant vaardigheden,3 reviews
-Randstad,data scientist randstad groep it - diemen,11.074 reviews
-Universiteit van Amsterdam (UvA),Assistant or Associate professor in Big Data Statistics and Econometrics for Business,-
-Textkernel,Technical Consultant,-
-Deloitte,Junior Manager Regulatory Risk,6.694 reviews
-Deloitte,Senior Consultant Regulatory Analytics,6.694 reviews
-Deloitte,(Senior) Consultant Cryptography,6.694 reviews
-Digital Source,Chief Data Science,-
-PwC,Credit risk & Quantitative Consultant,5.524 reviews
-DELL,Internal HPC Sales Executive (English + German OR French),8.249 reviews
-Fahr-Becker,Big Data Engineer,-
-Deloitte,Graduate Intern Regulatory Risk,6.694 reviews
-PHIND,Big Data Engineer (intern),7 reviews
-Deloitte,(Senior) Manager Regulatory Analytics,6.694 reviews
-PHIND,Lead Data Science Consultant,7 reviews
-Textkernel,Software Implementation Consultant,-
-Harnham,DIRECTOR DATA SCIENCE- DIGITAL,-
-YourProfessionals,Young Excellence Program Data Scientist,-
-Vrije Universiteit Amsterdam,Lecturer / Coordinator Business Analytics,27 reviews
-Park Plaza Victoria Amsterdam,Commis de Cuisine,-
-Universiteit van Amsterdam,Postdoctoral researcher in sensory research,19 reviews
-Swammerdam Institute for Life Sciences (SILS),Postdoctoral researcher in sensory research,-
-Fahr-Becker,Big Data Scientist,-
-Reed Business Information,Business Analyst II,49 reviews
-Textkernel,Support Engineering Team Lead,-
-Harnham,SENIOR DATA SCIENTIST- AMSTERDAM,-
-Digital Source,Senior Data Scientist,-
-Loopbaanvacatures.nu,Junior Locatiemonteur,-
-Opus Recruitment Solutions,DevOps (SaaS),-
-Wageningen UR,Software ontwikkelaar,4 reviews
-Feedzai,Account Executive Fraud Solutions,-
-ING,Market Risk Modeller,1.460 reviews
-Textkernel,Senior Back-end Developer,-
-HTBA,Azure IoT Engineer,-
-EY,Advisor WO Financial Services Risk — quantitative analysis (EMEIA FSO),5.232 reviews
-CareerValue,Data scientist bij Hollands start-up glorie,3 reviews
-ABN AMRO Bank,Senior Quantitative Risk Analyst,1.008 reviews
-Luminis,Senior developer / architect,-
-Elsevier,Lead Software Engineer,469 reviews
-Textkernel,Front-end Developer,-
-Swapfiets,Back-end Developer (C#),-
-McKinsey & Company,"Analytics Expert - Insurance, New Ventures",361 reviews
-Darwin Recruitment,Platform Engineer,-
-APG,Full-Stack Developer Ruby on Rails,47 reviews
-Deloitte,Director Regulatory Risk,6.694 reviews
-Deloitte,Scriptie stagiair Regulatory Risk,6.694 reviews
-BearingPoint,Senior Advanced Analytics Consultant,-
-Universiteit van Amsterdam (UvA),Postdoctoral researcher in sensory research,-
-Harnham,SENIOR DATA SCIENTIST- FINANCE- OPERATIONAL RISK,-
-KPMG,Scriptant Health IT Advisory,4.383 reviews
-Makerversity,Stage: Uitdagende marketingstage bij creatieve startup in Amsterdam,-
-Abbott Laboratories,Head Global Statistics,3.011 reviews
-mediaan,Full Stack Developer (junior / medior / senior),-
-Opus Recruitment Solutions,"Infrastructure/Cloud Engineer | OpenStack | Amsterdam | Navigation | €60,000",-
-Darwin Recruitment,Senior Big Data Engineer - Projects from scratch - €75K,-
-Darwin Recruitment,Scala Developer - AKKA/ AWS/ Docker - Startup - 60K,-
-HTBA,Azure Expert,-
-Darwin Recruitment,Backend Developer - Scala/ AWS - Amsterdam - Start-up - €70K,-
-StackOps,Cutting New Grounds as Linux DevOps Engineer,-
-PwC,Credit risk & Quantitative Senior Consultant,5.524 reviews
-Ahold Dellhaize,AI for Retail Lab Director / Assistant professor AI & Information Retrieval,-
-Ahold,AI for Retail Lab Director / Assistant professor AI & Information Retrieval,71 reviews
-PHIND,Teamlead Data Science,7 reviews
-Textkernel,Senior Linux System Engineer,-
-PHIND,Data Science & Analytics Traineeship,7 reviews
-HeadFWD,Creative & Talented JavaScript Developer,-
-The Mobile Company,Full Stack Web Developer,-
-PHIND,Data Analytics Traineeship,7 reviews
-Finest People,Senior Marketing Data Analist,11 reviews
-Airborne Oil & Gas,Internship Electrical Engineering,3 reviews
-Modis International,"TECHNICAL CONSULTANT - AMSTERDAM, DEGREE, ENGINEERING",-
-Modis International,TECHNICAL CONSULTANT - AMSTERDAM,-
-InterQuest Group,Ruby Developer,-
-Harnham,SENIOR DATA ENGINEER- RETAIL,-
-ZyLAB,.NET Software Developer,-
-Darwin Recruitment,Sr Scala Developer - BigData/Scalaz/Akka - up to €75K,-
-Yacht,Yacht IT Traineeship,32 reviews
-Digital Source,Ruby on Rails Developer,-
-Opus Recruitment Solutions,DevOps Engineer (SaaS),-
-Opus Recruitment Solutions,DevOps Engineer,-
-Elsevier,Senior Front-End Developer,469 reviews
-Fahr-Becker,Full Stack Microsoft Developer,-
-VU,Postdoc position in Predictive Analytics,-
-CodeGuild,Core Java Developer Machine Learning,3 reviews
-CodeGuild,Senior full-stack JavaScript ontwikkelaar | NodeJS React Mobile Microservices,3 reviews
-Krosto Techniek,engineer vision,-
-Darwin Recruitment,Senior Scala Developer - Join the best in the field! - €75K,-
-InterQuest Group,Machine Learning/AI Full Stack .Net Developer,-
-Park Plaza Amsterdam Airport,Leerling kok,3 reviews
-CodeGuild,Mobile JavaScript Developer Amsterdam & Utrecht,3 reviews
-Albert Heijn,Java Developer,2.000 reviews
-Opus Recruitment Solutions,Support Engineering Team Lead,-
-CareerValue,Medior/Senior Ondernemende Data-Science consultants,3 reviews
-HeadFWD,Java Developer,-
-Brunel,Data Analyst,90 reviews
-100 Grams Software B.V.,Lead Backend Developer bij 100 Grams Software B.V.,-
-Textkernel,Senior Java Developer,-
-Michael Page NL,Senior Risk Modeller - Retail Banking,-
-Modis,"Technical Consultant - Amsterdam, Degree, Engineering",-
-Modis,Technical Consultant - Amsterdam,-
-HTBA,Business Intelligence Ontwikkelaar,-
-Digital Source,Front-End Developer,-
-Robert Walters,Risk Modeller,46 reviews
-Brunel,Data Scientist,90 reviews
-HTBA,Business Intelligence Developer,-
-PPHE Hotel Group,Chef de Partie,-
-CodeGuild,Full stack developer NodeJS React | 3 days remote!,3 reviews
-Brunel,Data Analist,90 reviews
-PHIND,Junior backend developer,7 reviews
-Traffic Builders,Vacature software developer .NET C#,10 reviews
-Park Plaza Amsterdam Airport,Chef de Partie,3 reviews
-AmberScript,Stage: Sales stage A.I. Software startup,-
-CareerValue,Gezocht: Junior Microsoft System Engineer met HBO ICT,3 reviews
-Zonnepanelendelen,Medior Software Engineer bij Zonnepanelendelen,-
-CodeGuild,"Frontend Developer | Experiment with Angular 4, React & Node",3 reviews
-Brunel,Traineeship IT,90 reviews
-Brunel,IT Traineeship,90 reviews
-Brunel,Business & IT Traineeship,90 reviews
-Opus Recruitment Solutions,Senior Linux System Engineer,-
-HeadFWD,Senior/Lead JavaScript Developer: Expert in SPA Frameworks,-
-jobbuilders.nl,.Net Developer,-
-CodeGuild,"Senior Java Software Engineer | AWS, Docker, Cassandra",3 reviews
-Tempo-Team,Java developer / Elastic Search Randstad Groep Nederland - Diemen,206 reviews
-CodeGuild,Mdr/Sr Java Software Engineer | ProdDev,3 reviews
-CodeGuild,Senior/Lead Java software engineer | Taaltechnologie,3 reviews
-CodeGuild,Disruptive Core Java Software Engineer,3 reviews
-CodeGuild,Leading Java Software Engineer,3 reviews
-PHP Professionals,Junior/Medior PHP Developer voor Video ad-tech provider,3 reviews
-CodeGuild,Java Developer,3 reviews
-CodeGuild,Lead Java Software Engineer Amsterdam Big Data,3 reviews
-BK Professionals,Stage HBO Werktuigbouwkunde Onderzoek Internet of Things (Per september 2018),6 reviews
-Randstad,java developer / elastic search randstad groep nederland - diemen,11.074 reviews
-Yacht,Java developer / Elastic Search Randstad Groep Nederland,32 reviews
-CodeGuild,Medior Java Software Engineer | € 60.000 + 5%,3 reviews
-CodeGuild,Medior Distributed Java Software Engineer,3 reviews
-CodeGuild,Senior Core Java Developer Distributed Data Processing Amsterdam,3 reviews
-CodeGuild,Senior Java Developer Big Data Amsterdam,3 reviews
-CodeGuild,Front-end developer | Angular 4 & TypeScript | Red levens wereldwijd,3 reviews
-CodeGuild,Senior Frontend Developer | Team-up with fellow elite engineer,3 reviews
-CodeGuild,Senior Java Developer Amsterdam | eCommerce,3 reviews
-CodeGuild,"Full stack JavaScript Developer | NodeJS, Microservices, AWS",3 reviews
-CodeGuild,"Front-end Developer | React / Redux, Node, Microservices, AI",3 reviews
-CodeGuild,Lead Scala Software Engineer | up to € 111.000,3 reviews
-CodeGuild,Senior/Lead Java Developer | Build from Scratch!,3 reviews
-BK Professionals,Stage HBO Technische Bedrijfskunde Internet of Things (Per september 2018),6 reviews
-CodeGuild,Senior Core Java R&D Software Engineer,3 reviews
-CodeGuild,Senior Java Software Engineer | € 80.000 + 5%,3 reviews
-CodeGuild,Senior Distributed Software Engineer | Java Scala,3 reviews
-CodeGuild,Medior Java Developer | Big Data | € 60.000,3 reviews
-CodeGuild,Senior Core JavaScript Developer Amsterdam,3 reviews
-CodeGuild,Senior JavaScript Developer Amsterdam Angular,3 reviews
-CodeGuild,Lead Java Software Engineer High Performance | tot € 90.000,3 reviews
-CodeGuild,Lead Java Software Engineer | Schaalbaarheid & Performance | € 90.000 + 10%,3 reviews
-CodeGuild,Tech Lead Software Engineer Amsterdam Java Scala,3 reviews
-YoungCapital,Javascript developer,61 reviews
-CodeGuild,Lead Developer | Java & Scala/Akka | tot € 85.000 + 10% bonus,3 reviews
-CodeGuild,Experienced Core Java Developer,3 reviews
-Opus Recruitment Solutions,Linux Systems Engineer,-
-CodeGuild,Java Developer | Build from Scratch!,3 reviews
-CodeGuild,Full Stack JavaScript Software Developer React,3 reviews
-Databricks,Software Engineer - Spark Runtime (Amsterdam),-
-Anchormen,Big Data Engineer,-
-Harvest,"Developer, JAVA / .NET . Alleen voor de top 5% software engineer!",-
-Xomnia,Data Scientist,-
-Payvision,Associate Data Engineer,-
-Analyse People,Global Data Scientist | FMCG | Amsterdam,-
-Harvest,Harvest Talent Program – Java / .NET / Data Science,-
-DSI Analytics,Data Scientist (Consultant),-
-Xomnia,Data Science Traineeship,-
-JL Resourcing,Dev Engineer Java,-
-Pacmed,RA/QA Specialist (AI in Healthcare),-
-fundsUP,Inbound Email Marketer,-
-Qualogy,(Senior) Data Scientist,4 reviews
-Synechron,Data Scientist Finance Risk,-
-Hotelchamp,Senior Data Scientist (FT),-
-VentureBuilders,Business Development Lead,-
-Reynen Court LLC,"VP, Law Firm Relationships",-
-Sanoma Media,Data Scientist Junior/Medior/Senior,10 reviews
-Faction XYZ BVBA,Business Development Manager,-
-Beerwulf,Logistics Expert eCom,-
-fundsUP,Community & Customer Success Manager,-
-Ambassadors,Junior Frontend Developer (React),-
-ParaBotS,Medewerkers met een algemene achtergrond in Kunstmatige Intelligentie,-
-Triple A Risk Finance,Medior Consultant Data Analist,-
-Ambassadors,Junior API and Systems Engineer,-
-Weagree,Klantsucces ('sales'),-
-Weagree,Innovatief jurist,-
-MBR Partners,AI/ML Solutions Architect,-
-Flytxt Mobile Solutions,AI / ML Solutions Architect,-
-inSided,Head of engineering,-
-JOEP+CO,Data Scientist,-
-SDP,"Data Warehousing Architect, AWS",-
-Weagree,Innovation-minded lawyer,-
-VU,Lecturer / Coordinator Business Analytics,-
-inSided,Frontend developer (Madrid),-
-inSided,Backend developer (Madrid),-
-inSided,Frontend developer,-
-inSided,Backend developer,-
-SDP,"MS SQL Database Administrator, big data environment",-
-WKL Consultancy,Data Scientist | Tech startup | Amsterdam,-
-Eagle Vision Systems,Master thesis project: Deep learning for label inspection,-
-de Bijenkorf,Test Automation Engineer,47 reviews
-VentureBuilders,Software developer,-
-L1NDA,Back-end (Python) Developer,-
-Weagree,Studentstage communicatie,-
-SDP,"Data Warehouse Architect, BI Cloud environment",-
-ORTEC,Back-End Developer,-
-Schuberg Philis,Business Intelligence Specialist,-
-inSided,DevOps/PHP Engineer,-
-VIVAT,Actuarieel Professional - Actuariaat van de Toekomst,29 reviews
-FixedToday,Azure professional with data analytics expertise for machine learning implementation,-
-Anchormen,Tech Lead,-
-UGOO,Technisch consultant innovation & funding (startend of ervaren),-
-Levitech BV,Technisch Software Engineer,-
-Magno IT Recruitment BV,O180270: DevOps Engineer in Amsterdam area,-
-Weagree,Internship communication/(online) marketing,-
-Pointer Brand Protection,Senior Developer,-
-Omnia Retail BV,Front-end Developer,-
-100grams,Lead Backend Developer,-
-MBR Partners,Sales Engineer - the Netherlands,-
-Databay,INNOVATION LAB: SCRIPTIE / STAGE,-
-Oxygen Digital Recruitment,"Back-end / Data engineer – Spark, Hadoop, Hive, SQL - Amsterdam",-
-Independent Recruiters,Data Scientist,5 reviews
-Sumo Logic,Enterprise Sales Engineer,-
-ALLSAFE Management,Junior Online Marketeer,-
-OLX Group,Senior PHP Developer - Tradus,-
-Independent Recruiters,Data Analist,5 reviews
-Hays,Business Intelligence Specialist,566 reviews
-FixedToday,Trainer Machine Learning with Big Data and Python (part-time / korte opdracht),-
-EyeOn,Consultant fast planning solutions,-
-Orange Quarter,DevOps Engineer,-
-de Bijenkorf,Java Developer,47 reviews
-PPHE Hotel Group,Demi Chef de Partie,-
-Sterrk,Fullstack developer,-
-thobs,Senior Software Engineer,-
-Schuberg Philis,Mission Critical Software and Systems - Cloud Engineers,-
-ABC Professionals,Servicemonteur Stadswarmte,8 reviews
-BOLD Company,.NET Developer,3 reviews
-Sterrk,Medior PHP Developer,-
-Layer,DevOps / Linux System Engineer - SaaS - 80K,-
-Sterrk,Senior .NET Developer,-
-BOLD Company,".NET Developer | Internationaal betaalplatform | ASP.NET, C#, HTML | Topvoorwaarden | Salaris tot €5.000,- per maand",3 reviews
-WKL Consultancy,Senior IOS Developer | Tech startup | Amsterdam,-
-WKL Consultancy,Senior Android Developer| Tech startup | Amsterdam,-
-ING,Head of Data,1.460 reviews
-ING,"Data Scientists, Machine Learning experts (junior tot senior level)",1.460 reviews
-ING,Senior Data Analist – Business Intelligence voor ING kantoren,1.460 reviews
-ING,Predictive analytics expert,1.460 reviews
-ING,Model Validator Market & Operational Risk,1.460 reviews
-ING,Trading Quant - Financial Risk Model Development,1.460 reviews
-ING,Frontend Developer WBAA,1.460 reviews
-ING,Chapter Lead Data Science,1.460 reviews
-ING,Junior Market Risk Professional,1.460 reviews
-Perca Search,Grid Owner Data Analytics,-
-ING,Senior Market Risk Professional,1.460 reviews
-Spilberg IT DEV CAREERS,Junior / Medior Machine Learning developer voor een start-up,-
-ING,Full Stack Dev Engineer Applied Machine Learning / Virtual Assistants,1.460 reviews
-ING,Back End Developer / Scala / Java,1.460 reviews
-ING,Senior Full-stack Engineer for Global FinTech Innovation Project (Contractor or Freelance),1.460 reviews
-Java Professionals,Fullstack Java developers start-up,3 reviews
-Spilberg IT DEV CAREERS,Medior Java/ Big Data developer voor een technisch bedrijf,-
+company,job,summary
+Naspers,Data Scientist," A good understanding of the mathematical concepts that are frequently used in machine learning (e.g., linear algebra, probability theory)...."
+Optiver,Data Scientist," Develop statistical descriptive or predictive models and new trading strategies, through optimisation and machine learning techniques;..."
+albelli,Junior Data Scientist, Machine learning and predictive analysis; Application of machine learning for automation of tasks and processes requiring big amounts of data....
+Universiteit van Amsterdam,Chair in Machine Learning (Full or Associate professor)," The chair in Machine Learning has:. Frank van Harmelen, VU), Theory of Machine Learning (Prof. Proven ability to engage in cutting-edge research in machine..."
+Booking.com,Sr. Product Owner- Machine Learning," Product Owner- Machine Learning in Amsterdam, the Netherlands. Join us in Amsterdam as a Senior Product Owner, Machine Learning!We are growing our central..."
+Google,"Software Engineer, Research and Machine Intelligence", Experience in Machine Learning or Artificial Intelligence. Participate in research for artificial intelligence and machine learning applications....
+Deloitte,Data Scientist - TensorFlow, You are the expert in machine learning and natural-language processing. You have worked with TensorFlow and Python to develop machine learning models....
+Deloitte,Data Scientist, You will be able to make a connection between our client’s needs and analytical methods such as supervised –and unsupervised machine learning algorithms....
+Emesa,Customer Intelligence Analyst - Ecommerce, You help with ongoing efforts to apply advanced analytics methodologies and machine learning for targeted marketing efforts and in generating personalized web...
+Synechron,Data Scientists," Designing, developing and testing statistical and machine learning models. We are looking for new Data Scientists (2-5 years of experience) for our Synechron..."
+Harnham,MACHINE LEARNING ENGINEER," Machine Learning Engineer. Design and implement machine learning applications. Expert with machine learning, data analyses and statistics...."
+McKinsey & Company,Data Scientist - McKinsey Analytics, How can we use machine learning to predict consumer behavior? 2+ years of working experience in statistical modelling and/or machine learning....
+Universiteit van Amsterdam,PhD student in efficient deep learning for weakly labelled data, Affinity with machine learning and deep learning; You will work as part of the Amsterdam Machine Learning Lab on deep learning methods for HTSM problems with...
+mediaan,Data Scientist," You are familiar with models, algorithms and methods such as data mining, cluster &amp; network analysis, machine learning, classification techniques (supervised..."
+Darwin Recruitment,Java Developer - Music & Machine learning - €65K," Innovation, media industry, big data and a machine learning system; Contribute to the software platform which needs to be ready for implementing machine..."
+oxilary,Pragmatic Data Scientist," Can find the answers requires knowledge of statistics, machine learning, NLP, optimization modelling and data mining;..."
+CodeGuild,Core Java Developer Machine Learning, Core Java Developer Machine Learning Amsterdam. Are you experienced in Machine Learning and/or Pattern Recognition Algorithms?...
+InterQuest Group,Machine Learning/AI Full Stack .Net Developer," Primarily, youll already have experience within AI/Machine Learning, be it personal projects or commercial projects...."
+McKinsey & Company,Manufacturing Data Scientist - McKinsey Analytics," How can we use machine learning to predict consumer behavior? 2+ years of deep technical experience in predictive analytics, machine learning, optimization, and..."
+Cognizant,Junior Data Analyst, After the new hire training you will spend up to 3 months learning new statistical or machine learning techniques and relevant software....
+NKI-AVL,Bioinformatician," Experience in statistics, machine learning and/or image processing is a plus. Your function within the department...."
+McKinsey & Company,"Data Scientist - Ingenuity, McKinsey Solutions"," Experience and familiarity doing multivariate predictive modeling and machine learning modeling. Master’s degree in Statistics, Mathematics, Physics, Systems..."
+Philips,Data Scientist Market 2 Order, Play a leading role in developing our financial analytics capability further especially focused on Markets Market 2 Order processes like Sales &amp; Account...
+Universiteit van Amsterdam,PhD candidate in Deep Efficient Temporal Learning," A solid understanding of Machine Learning and Deep Learning; Close collaboration with a leading industrial vendor of Machine Learning, Deep Learning and..."
+CodeGuild,"Core Java Developer Machine Learning, Big Data, Amsterdam", Core Java Developer Machine Learning Amsterdam. Are you experienced in Machine Learning and/or Pattern Recognition Algorithms?...
+Elsevier,Principal Research Scientist," You will bring demonstrable experience in research and development of Natural Language Processing, Machine Learning, Semantic Technologies, Artificial..."
+KPMG,Scriptant Sports Analytics," Je hebt een passie voor sport en affiniteit met vraagstukken rondom data &amp; analytics, zoals sensor technology, virtual reality, platforms, machine learning en..."
+Deloitte,Consultant Regulatory Analytics," During the age of Machine Learning and RPA, this can be faster and better. Ever seen the Big Short?..."
+Soho House Amsterdam,Barista," Preparing the needed mise-en-place and set-up the coffee machine for smooth operations throughout the day. In addition to joining a great opening team, we will..."
+Cognizant,Senior Data Scientist, Proven experience in data mining and machine learning methodology techniques. He / She should know about the Machine Learning modelling concepts and hands on...
+TATA Steel,Data Scientist," Affinity with Machine Learning techniques and tools (PyCharm, Keras, xgboost, etc.). ICT...."
+oxilary,Data science – FinTech, Supervised &amp; unsupervised learning. Our clients are always looking for talented Data scientists....
+Tesla,Data Scientist – EV Infrastructure Internship, The Supercharger Analytics Team uses data analysis and machine learning to retrieve actionable insights for the development and enhancement of the charging...
+Elsevier,VP Data Science," Oversee the efficacy of advanced analytics and statistics efforts including Machine Learning, Natural Language Processing &amp; Artificial Intelligence...."
+TomTom,"Technical Product Owner (R&D, Autonomous Driving)"," You collaborate and communicate closely with other engineering, operational and machine learning teams. Background in machine learning and computer vision, and..."
+inSided,UX & Graphical Designer," We are combining advanced AI and machine learning technology, with the power of a customer community, to ensure that customers get fast and relevant answers, in..."
+AnalysePeople,Global Data Scientist | FMCG | Amsterdam," Proven experience in building predictive models and machine learning algorithms. Apply advanced analytics techniques (predictive models, machine learning, data..."
+Talpa Network,Security Engineer," The Talpa Technology team consists of highly-experienced technology architects, engineers and project managers who are key specialists in the field of High-Load..."
+KLM,Software Engineer," Affinity with Machine Learning and/or Operations Research concepts. At ODS, they build machine learning models and optimizers to support the complex airline..."
+ORTEC,Analytics Consultant," Are you looking for the opportunity to work in Optimization, Machine Learning or Forecasting applied at one of our customers in for instance the Aviation, Oil &amp;..."
+Deloitte,Graduate Intern Regulatory Risk," Machine learning, artificial intelligence) to make compliance more efficient and effective? Writing your thesis with the leading Regulatory Risk practice...."
+Endouble,Back-end Developer | Endouble | Amsterdam," Is constantly learning, adapting and helping team members to learn and grow. Gadgets like a PS4, a pinball machine and a foosball table for the more nostalgic..."
+Informatica,"Big Data Presales Specialist, EMEA (s)", Learning Acumen &amp; Enablement. This role will support the regional Sales &amp; Presales teams with in-depth big data technical expertise in support of new and...
+Payments & Cards Network,Senior Data Scientist (Freelance)," About the Client A Senior Data Scientist is required to play a crucial role in developing a new banking platform which will make use of new, innovative..."
+Darwin Recruitment,Sr Java Engineer - AI & Machine Learning - €75K," Java, JEE, J2EE, JVM, Tomcat, Servlet Technologies, Elastic search, apache, Cassandra, postgresql, mysql, react, jquery, Git, Gitlab, JIRA, NoSQL, NRDBS, Lucene..."
+Make Marketing Magic,Back-End Developer (Fulltime)," Wij zijn daarvoor altijd op zoek naar nieuwe technieken, zoals Machine Learning / AI, om onze klanten nóg beter te kunnen adviseren...."
+Elsevier,Head of Product Analytics, We are looking for an experienced digital analytics lead to support Product Development at Elsevier with data and analytics. As Head of / Director Product...
+Textkernel,NLP/ML Research Engineer, You will contribute to and extend our in-house machine learning framework. You will contribute to our machine learning framework and improve the parsing models...
+Uber,CRM Analyst - EMEA, Experience with R/Python and basic Machine Learning is a plus. We’re changing the way people think about transportation....
+Booking.com,Marketing Analyst - Modeling," Big data, predictive analytics, business intelligence &amp; machine learning). Business Intelligence Analyst – Modeling...."
+Booking.com,Data Engineer, Good understanding of basic analytics and machine learning concepts. Booking.com is looking for data savvy professionals to join our team....
+De Persgroep,Big Data Engineer (English), Design and implement ‘predictive analytics’ and/or machine learning algorithms. In the Data Competence team you are responsible for the rollout of the biggest...
+AnalysePeople,Senior Data Scientist | Publisher | Amsterdam," Good knowledge of Machine Learning and demonstrable extensive experience with building discovery systems, in particular Recommender Systems...."
+PwC,Robotics (RPA) specialist FY19," Je bent als starter geïnteresseerd in robotics, machine learning en artificial intelligence. De wereld om ons heen verandert in een razend tempo en de..."
+UWV,Customer Intelligence Analist Klantexpertise," Kennis van datamining technieken (bijvoorbeeld segmentatie, voorspelmodellen, machine learning). Als Customer Intelligence Analist heb je passie voor data...."
+Ziggo,Sr Data Scientist, Exposure/interest in machine learning. Proficient in statistical packages and Machine Learning libraries (e.g....
+Textkernel,Data Consultant, Textkernel is international market leader in Artificial Intelligence and Machine Learning for HR and recruitment....
+AnalysePeople,Big Data developer – Banking, You will be involved in Machine Learning analyses. For a leading bank in Amsterdam we are currently looking for an ambitious medior/senior Big Data developer....
+Henkel AG,Business Science Manager," Statistical analysis, predictive modeling or machine learning as applied to marketing, CRM, eCommerce, supply chain, finance, etc...."
+Microsoft,Investment Finance Manager, Obtain learnings and leveraged for on-going decision making. Share learnings of prior investments ROI in the sub and drive improvements....
+Abbott Laboratories,Head Global Statistics," Interest in Real World Evidence and digital studies, including e.g., Machine Learning; The Established Pharmaceuticals Division (EPD) of Abbott is looking:...."
+BuildingCareers B.V.,Project Engineer Machine Construction, A strong learning and self-starting ability. Experience with the latest technological developments in machine construction....
+McKinsey & Company,Senior Data Scientist - McKinsey Analytics, How can we use machine learning to predict consumer behavior? 8+ years of working experience in statistical modelling and/or machine learning....
+Talpa Network,Manager Digital Technology," Proven experience delivering innovation through emerging technologies such as AR/VR, AI machine learning, robotics, etc...."
+Xccelerated,Data Science Accelerator bij Xccelerated (Junior)," Applied machine learning. Neural Networks &amp; Deep Learning. Unlike other training concepts, our first-year fellows begin in an immersive, full-time, accelerated..."
+Digital Source,Data Scientist," You are skilled in NLP, Machine Learning, or Optimisation Modelling. Thanks to their expert team, they combine the technologies of Big Data with Machine..."
+Schiphol,Medior Data Scientist, Machine Learning algorithms and how to implement these on complex data sets. A curious mindset and an appetite for learning new things every day....
+UWV Human Resources,Customer Intelligence Analist Klantexpertise," Kennis van datamining technieken (bijvoorbeeld segmentatie, voorspelmodellen, machine learning). Als Customer Intelligence Analist heb je passie voor data...."
+Textkernel,Technical Consultant," We are a fast growing company developing cutting edge technologies based on NLP, AI, semantics and machine learning in a no-nonsense, informal and professional..."
+Textkernel,Product Owner (Data/Analytics)," We are a fast growing company developing cutting edge technologies based on NLP, AI, semantics and machine learning in a no-nonsense, informal and professional..."
+Senfal,Vacature: Energie Data-Analist, Met goede analyses en machine learning kunnen wij onze software nog efficiënter maken en ook aan potentiële klanten aantonen wat zij kunnen besparen op...
+Feedzai,Account Executive Fraud Solutions, You are eager to use your experience in the Fintech space to propel an innovator in machine learning fraud prevention and protect consumers everywhere....
+Deptagency,Data Consultant," Voor ons kantoor in Amsterdam zoeken we een data consultant die precies weet hoe je met Algoritmes, Big Data, Machine Learning en Predictive Targeting om moet..."
+AnalysePeople,Senior Data Scientist – Financial institute – Amsterdam," You have at least 6 years working experience in de field of Machine Learning. A department where a diversity of real-world business problems are being solved,..."
+IBM,Graduation / Work Experience Internship at IBM CAS Netherlands," A keen interest in hands-on Cognitive Computing, NLP, Crowdsourcing, Machine Learning (also Deep Learning), Web Development or IoT is more likely to get you an..."
+Textkernel,Partner Manager Benelux," We are a fast growing company developing cutting edge technologies based on NLP, AI, semantics and machine learning in a no-nonsense, informal and professional..."
+Harnham,DATA SCIENTIST," Experience with clustering and machine learning algorithms. Employ data mining, clustering, machine learning, segmentation, and a lot of other analytical..."
+McKinsey & Company,Digital Consultant," Previous experience in a technology/ IT strategy related role combined with expertise in areas such as digital strategy/ transformation, IT infrastructure &amp;..."
+Booking.com,Visual Content Quality Manager," Understanding of machine learning and asset management systems. Solid understanding of quality management (style guides, taxonomies, machine learning a.o.), as..."
+Fahr-Becker,AI Specialist," Experience with machine learning; This involves, amongst others, Information Retrieval from the large numbers of documents that their clients store in their..."
+Travix,Internship Data Science (Payments)," You have applied Statistical Learning / Machine Learning / Data Mining techniques like random forests, k-means clustering, logistic regression, etc...."
+Universiteit van Amsterdam (UvA),PhD student in efficient deep learning for weakly labelled data, Affinity with machine learning and deep learning; You will work as part of the Amsterdam Machine Learning Lab on deep learning methods for HTSM problems with...
+Deloitte,Big Data Manager," This includes the use of methodologies such as Machine Learning, Clustering &amp; Segmentation, Text Mining and Process Mining...."
+Textkernel,Application Support Engineer," We are a fast growing company developing cutting edge technologies based on NLP, AI, semantics and machine learning in a no-nonsense, informal and professional..."
+VodafoneZiggo,Sr Data Scientist, Exposure/interest in machine learning. Proficient in statistical packages and Machine Learning libraries (e.g....
+NLR,Data Scientist," Jij gelooft in de kracht van data. Sterker nog, je bent ervan overtuigd dat je met jouw Data Science ervaring van grote toegevoegde waarde bent bij NLR. Wij..."
+The Mobile Company,Full Stack Web Developer, Your role We look forward to welcoming an experienced Full Stack Web Developer to our ever-growing digital team in the heart of Amsterdam. You’ll be writing...
+McKinsey & Company,Manufacturing Senior Data Scientist - McKinsey Analytics," 5+ years of experience in statistical modelling and/or machine learning. 3+ years of deep technical experience in predictive analytics, machine learning,..."
+Cmotions Recruitment,Data Scientist, Support our development team in adopting machine learning and neural network solutions in the future. Join the Eco Chain!...
+Digital Source,Chief Data Science," Experience in Python, R, Machine Learning. Understanding of Deep learning, Time series and Natural Language Processing...."
+Booking.com,Product Owner Data Science," A proven track-record of developing products that are powered by machine learning. Analyse, understand, and share learnings from experimentation to build a..."
+ChipSoft,Stage: Zoekfilters genereren op basis van ‘natural language’," We laten je volledig vrij in de keuze van te gebruiken methoden en (machine learning) algoritmen, mits je jouw keuzes kunt onderbouwen op basis van (literatuur..."
+VYE Professionals,Junior Quantitative Trader - Amsterdam," Apply AI and Machine learning techniques (e.g. Interest in Machine Learning Techniques and AI, experience is an advantage; Junior Quantitative Trader...."
+Pegasystems,Senior Solutions Consultant," Experience and willingness to get into data science, machine learning, big data technologies. This role is a part of a specialist pre-sales team that works with..."
+ZyLAB,.NET Software Developer," From a technology perspective, ZyLAB is synonymous with innovation in data science, artificial intelligence, machine learning and the most search technology..."
+Albert Heijn,Data Scientist Albert Heijn Datakitchen," Door toepassing van geavanceerde analyse en Data Science technieken (denk aan machine learning technieken als neural networks, gradient boosting, random forests..."
+Deloitte,IoT Engineer Manager, A base level understanding of Machine Learning techniques. Passionate about learning new technologies and creating innovative solutions....
+Octagon Professionals,Graduate Data Scientist," Selecting features, building and optimizing classifiers using machine learning techniques. Have you recently graduated in a numerical discipline?..."
+Textkernel,Agile Coach / Scrum Master," We are a fast-growing company developing cutting-edge technologies based on NLP, AI, semantics and machine learning in a no-nonsense, informal and professional..."
+Textkernel,Software Implementation Consultant," We are a fast growing company developing cutting edge technologies based on NLP, AI, semantics and machine learning in a no-nonsense, informal and professional..."
+Schiphol,Senior Data Scientist, Machine Learning algorithms and how to implement these on complex data sets. A curious mindset and an appetite for learning new things every day....
+AnalysePeople,1 jarig Traineeship – Data Science/Advanced Analytics – Luchtvaart," Denk hierbij aan onderwerpen als Predictive Analytics, Data visualisatie en Machine Learning en komen technieken aan bod als Python, R, Tableau etc...."
+NetApp,AI Solutions Architect," Understanding of Machine learning, DNNs, CNNs, recurrent nets, supervised and unsupervised learning, and optimization techniques...."
+EY,Big Data Scientist., Je bent in staat om met de nieuwste machine learning technieken en big data stack platforms samen met onze klanten end to end oplossingen te ontwikkelen waarmee...
+AnalysePeople,Senior Data Scientist – Intelligente Apps," Door te werken met machine learning, statistische algoritmes, data exploratie en visualisatie. Voor een van onze klanten, een financieel gezonde Start-Up..."
+Textkernel,Junior Business Consultant," We are a fast-growing company developing cutting-edge technologies based on NLP, AI, semantics and machine learning in a no-nonsense, informal and professional..."
+Universiteit van Amsterdam (UvA),PhD candidate in Deep Efficient Temporal Learning," A solid understanding of Machine Learning and Deep Learning; Close collaboration with a leading industrial vendor of Machine Learning, Deep Learning and..."
+Search It Recruitment,Data Scientist Amsterdam, You preferably have experience with machine learning. You will be responsible for developing machine learning models....
+Deloitte,Analyst Forensic Technology & Discovery, En Machine Learning. Door middel van verschillende applicaties die gebruik maken van machine Learning en AI proberen wij steeds meer slimme technologieën toe te...
+AnalysePeople,Marketing Intelligence Specialist | Uitgeverij | Amsterdam, Je hebt ervaring met toepassingen van machine learning binnen een commerciële omgeving. Voor een klant van mij ben ik op zoek naar een marketing geörienteerde...
+Deloitte,Manager Data Science," This includes the use of methodologies such as Machine Learning, Clustering &amp; Segmentation, Text Mining and Process Mining...."
+Deloitte,IoT Engineer Consultant," A base level understanding of Machine Learning techniques. Continuous learning on state-of-the-art development tools, programming techniques and new platforms...."
+McKinsey & Company,"Analytics Expert - Insurance, New Ventures"," Knowledgeable about interpreting output from Machine Learning, R-studio and Tableau; Master's degree in statistics, mathematics, physics, systems engineering,..."
+Robert Walters,Risk Modeller," Good knowledge of statistics, econometrics, financial mathematics, stochastic calculus and/or machine learning;..."
+Viacom International Media Networks,Trade Marketing & Sales Support Manager, Share learnings &amp; local success stories with other territories (manage our internal PR). Nickelodeon and Viacom Consumer Products (NVCP) license and develop...
+3D Hubs,Software Engineer," We're looking for engineers who bring fresh ideas from a variety of disciplines, including machine learning and full-stack web development...."
+ServiceNow,"Solution Consultant, Platform"," Experience with Big Data, IoT, Machine Learning and other emerging technologies a plus. Solution Consultant - Platform...."
+Devoteam,Big Data / Scala Developer," Experience with Hadoop, MapReduce, HDFS, Pig, Hive Spark, Kafka, NoSQL, Graph Processing and machine learning...."
+M2Mobi,Junior iOS Developer," En, er is ruimte om te spelen met nieuwe technologieën zoals machine learning en AR. Wij zoeken iemand die...."
+AnalysePeople,Medior Data Scientist | Online Marketing Bureau, Dit doel bereik je door creatief machine learning methoden in te zetten en te experimenteren met de nieuwste technieken op het gebied van data science ....
+Harnham,LEAD DATA SCIENTIST, Extensive experience in statistical modelling and/or machine learning. Apply data science methods such a machine learning to improve client's performance needs....
+Uber,Staff Software Engineer," Collaborate with others, from talented team members within your group, through smart technologists in other functions like machine learning, AI or data science,..."
+Triple A - Risk Finance,Consultant Data Analytics, Kennis van en ervaring met machine learning-technieken. Je wilt een relevante stap zetten in je loopbaan in Data Analytics....
+PHIND,Data Analytics Traineeship, Ervaring met machine learning is een grote pre. Indien jij zelf al bekend bent met termen als machine learning en predictive analytics heb je een mooie...
+AnalysePeople,Data Scientist – Internet – Amsterdam (Dutch Speaking)," Het ontwerpen, ontwikkelen en implementeren van machine learning oplossingen. Het ontwikkelen en het uittesten van machine learning oplossingen...."
+Building Careers,Project Engineer Machine Construction, A strong learning and self-starting ability. Experience with the latest technological developments in machine construction....
+Accenture,Analyst Network Services - CMT Industry," Are you passionate about telecommunications, network technologies, cloud computing, big data analytics, machine learning?..."
+Deloitte,"Manager Analytics (Energy, Resources and Manufacturing Industry)", Advanced Analytics houses our data scientists who are busy making predictive and machine learning models to analyse client data....
+TomTom,Mobile App Developer," Engineering responsibilities span collaborating with our ambitious UX team in the conception and delivery of innovative new features, to dealing with cloud and..."
+Deloitte,(Senior) Manager Regulatory Analytics," During the age of Machine Learning and RPA, this can be done faster and better. A team of 50 people is manually scrolling through extensive lists of products to..."
+Textkernel,Big data software engineer," We are a fast growing company who have been developing cutting edge solutions for the Human Resource Industry based on NLP, AI, semantics and machine learning...."
+Deloitte,(Senior) Consultant Cryptography," It was a cryptologic machine designed by Alan Turing to break Enigma, a system used by the Germans to encrypt radio communications during the war...."
+Textkernel,Data & Quality with Python Skills," Moreover, D&amp;Q is responsible for setting up and supervising annotation projects to assess the quality of our products and create training data for our Machine..."
+PostNL,Commercial Analyst, Affiniteit met de ontwikkelingen rondom Big Data en Machine Learning. IT....
+Deloitte,(Senior) Manager Data Strategy & Governance," Data Modelling, Robotics, Statistics, Machine Learning, SQL, R). What will you be doing?..."
+M2Mobi,Android Developer," En, er is ruimte om te spelen met nieuwe technologieën zoals machine learning en AR. Wij zoeken iemand die...."
+Sanquin,Postdoc Social media en bloeddonatie, Automatische tekstanalyse of machine learning door middel van R of Python; Het doel van dit project is te onderzoeken wat de rol is van communicatie in sociale...
+Textkernel,Support Engineering Team Lead," We are a fast-growing software company, developing cutting edge technologies based on NLP, AI, semantics and machine learning...."
+AnalysePeople,Big Data Engineer – Media," Je hebt de passie (of reeds ervaring) met het ontwerpen van algoritmes, predictive analytics en/of machine learning...."
+Codaisseur,Full Stack JavaScript Teacher - €40-60K - 32-40h - Amsterdam, Creating teaching materials to reach learning goals in our students; An inspiring environment where we promote and value life-long learning and continuous...
+Poki,Senior Golang Engineer," Your challenge: Support, develop and enhance our highly available / scalable cloud agnostic infrastructure Create microservices in Go and Node.js. Experiment..."
+AFM,Toezichthouder IT risico's," Als OPIT (senior) toezichthouder vertaal je technologische ontwikkelingen, zoals cloud computing, machine learning en de inzet van block chain technologie, naar..."
+ABN AMRO Bank,Quantitative Risk Analyst," Good knowledge of statistics, econometrics, financial mathematics, stochastic calculus or machine learning; Experience with machine learning/advanced analytics..."
+PwC,Consultant Data Analytics," Het Data Analytics team houdt zich voornamelijk bezig met customer analytics (zoals klantsegmentaties), machine learning (zoals predictive maintenance), fact..."
+Koning & Hartman,Consultant Industrial Automation," Termen die in ons Smart Industry team dagelijks voorbij komen zijn horizontale en verticale integratie via het ISA-95 model, machine to machine communicatie en..."
+KPMG,Scriptant Health IT Advisory," Voorbeelden van onderwerpen waar we momenteel mee bezig zijn zijn de toepassing van Natural Language Processing, Data Analytics en Machine Learning...."
+Darwin Recruitment,Data Scientist - HR Analytics," Design and build solutions to business questions using a variety of data mining and machine learning techniques, explore and experiment with different data..."
+EY,Manager Forensic Data Analytics," Exposure to database management software, stats and machine learning software and link analysis/data visualization software, big data platforms (e.g...."
+Deloitte,Manager Regulatory Risk, We doorbreken oude gewoontes door het gebruik van nieuwe technologieën (denk aan data analytics en machine learning). Wij pakken het net even iets anders aan....
+Werkspot,Sr. Product manager Core consumer experience, This part of the customer experience includes Machine learning based matching and conversion driven messaging features....
+Digital Source,Data Analyst, This data has to be converted into features so Machine Learning can eventually be applied. Are you attracted by the question of how we can make the move from...
+Mobpro,Software Engineer (Python)," Machine learning or maple syrup, he is up for discussion. It would be great if you have knowledge of Django, MongoDB, Redis, Ansible, machine learning, HAProxy,..."
+Mobpro,Front-end Developer (React)," Machine learning or maple syrup, he is up for discussion. MobPro is looking for an experienced front-end (react) developer who can perfect the usability and..."
+Elsevier,Senior Visual Designer," We use Machine Learning and Natural Language Processing to filter, extract and learn from vast data sets, social networks and collaboration platforms...."
+Triple A - Risk Finance,Junior/Medior Consultant Data Analytics, Kennis van en ervaring met machine learning technieken. Je bent overtuigd van de toekomst en kracht van Big Data....
+Irdeto,Solution Architect," Linux Kernel Security Model, Android Security Model, Digital Rights Management, Machine Learning, Cryptography, ISO26262, J3061, CVE Database. Why join Irdeto?..."
+HeadFWD,Creative & Talented JavaScript Developer," Wil je graag meer leren van termen zoals Big Data, VR, Chatbots of Machine Learning? Jij gaat jezelf nog harder uitdagen, buiten de lijntjes tekenen en uit je..."
+ChipSoft,Stage: Ontwerp een ‘Intrusion Detection Systeem’, Enthousiaste Informatica-studenten (bachelor) met Machine Learning ervaring. We laten je volledig vrij in de keuze van te gebruiken methoden en (machine...
+Digital Source,Senior Data Scientist," Understanding of Machine Learning and AI, and/or Language Processing and Text Analytics. Are you on the look out for a data scientist opportunity within one of..."
+De Persgroep,Big Data Engineer, Het ontwerpen en implementeren van ‘predictive analytics’ en/of machine learning algoritmes. In het Data Competence team ben je verantwoordelijk voor de uitrol...
+PHIND,Data Science & Analytics Traineeship, Ervaring met machine learning is een pré. Indien jij zelf al bekend bent met de termen als machine learning en predictive analytics heb je een mooie binnenkomer...
+mediaan,Software Engineer Junior," Het spreekt in jouw voordeel wanneer je geïnteresseerd bent in nieuwe technologieën zoals client-side frameworks, IoT of Machine Learning...."
+Textkernel,Senior Back-end Developer," We are a fast growing company developing cutting edge technologies based on NLP, AI, semantics and machine learning in a no-nonsense, informal and professional..."
+BSI,Production/Development Manager - Medical Devices," If so, you can join our dedicated EMEA 13485 Assessment Delivery team and be trained to become a field based Medical Device Assessor using your extensive..."
+Wortell,Data & AI Consultant," Machine Learning Services. Binnen ons Data &amp; AI team zijn wij op zoek naar een enthousiaste, leergierige en doortastende consultant...."
+IT Recruitment BV,"Backend / Blockchain Developer, in Amsterdam, vast dienstverband"," Affiniteit met Blockchain, Cryptotechnology, Cybersecurity, Full Stack App en Web Development, API’s, Machine Learning...."
+Deloitte,Director Regulatory Risk," Je integreert technologie (AI, machine learning, data analytics) in het alledaagse werk. Er is veel gebeurd in het afgelopen decennium en jij hebt het van..."
+3D Hubs,Senior Data Engineer," RDS and Aurora (PostgreSQL)Redshift, Airflow, Segment.io, Mixpanel, Mode Analytics, Machine Learning (Tensorflow), Python(Flask/SQL Alchemy), Rabbit, MQ, Docker..."
+Deloitte,Junior Manager Regulatory Risk, We doorbreken oude gewoontes door het gebruik van baanbrekende technologieën (denk aan data analytics en machine learning)....
+Pegasystems,Principal Software Engineer," Analytics and machine learning skills would be a bonus! Learning &amp; self-growth opportunities (Lynda.com, Conferences etc.)...."
+Recruition,Data Scientist," Daarnaast sla je de verdiepingsslag in de wereld van machine learning. Je bent bekend met modelleren, machine learning (textmining, neurale netwerken, random..."
+Sytac,Scala Developer," Experience with Machine Learning; A reliable professional who really cares about delivering outstanding products on schedule, with a holistic view over..."
+TomTom,"Technical Product Manager, Autonomous Driving"," We are doing world-class research and development to innovate our map technology for self-driving cars, using the latest machine techniques...."
+Cleeng,Internship for students - EMEA Video Sales Manager, Constant learning and knowledge sharing with some of the best selling professionals in the industry. After a period of continuous target achievement and...
+Digital Source,Data Engineer," Thanks to their expert team, they combine the technologies of Big Data with Machine Learning, and help any of their customers use their data...."
+Deloitte,Senior Consultant Regulatory Analytics," During the age of Machine Learning and RPA, this can be done faster and better. A team of 50 people is manually scrolling through extensive lists of products to..."
+NKI-AVL,PhD Student AI in Radiology," A background in computer science, applied mathematics, biomedical engineering and/or computing is preferred, while theoretical knowledge and practical..."
+Digital Source,Computer Vision Engineer (Autonomous Driving/ML)," Passionate about R&amp;D and Machine Learning/Computer Vision challenges? You have a postgraduate degree (preferably a PhD) in computer vision and Machine Learning,..."
+PHIND,Junior backend developer, Het is een pré als je ervaring hebt met Laravel en machine learning. Junior / Medior Developer....
+Olympia,Opleiding tot operator B bij Cacaofabriek, Het bedrijf investeert veel in nieuwe machines en daarom blijft de omgeving technisch interessant. Naast learning on the job wordt je ook gedegen begeleid in je...
+Poki,Senior Back-End Developer," Your challenge: Support, develop and enhance our highly available / scalable cloud agnostic infrastructure Create microservices in Go and Node.js. Experiment..."
+Harnham,SENIOR DATA SCIENTIST- AMSTERDAM, Comfortable using machine learning. Senior Data Scientist- Digital....
+AnalysePeople,Lead Data Scientist | Financieel | Amsterdam," Ruime ervaring met diverse methoden en technieken vanuit het analytics domeine (data mining, machine learning, deep learning, NLP etc.)...."
+PHIND,Big Data Engineer," Ervaring met Kafka, Machine Learning of Matlab is een pré. Denk hierbij aan werken met AWS, maar ook het opstellen van algoritmes met Machine Learning...."
+Harnham,LEAD DATA SCIENTIST- FINANCIAL SERVICES, Use machine learning to solve complex problems. Confident using machine learning and experience with data mining. Lead Data Scientist- Finance....
+PwC,Job internship - Robotics Process Automation (RPA)," With an interest in RPA, machine learning and AI. As a Robotics Specialist, you will operate in the forefront of innovation with a focus on RPA, machine..."
+VU,Postdoc ‘Social media and blood donor behaviour: new ways of effective communication’, Automatische tekstanalyse of machine learning door middel van R of Python. Social media and blood donor behaviour:....
+Deloitte,Scriptie stagiair Regulatory Risk," Machine learning, artificial intelligence) worden ingezet om naleving van wet- en regelgeving effectiever en efficiënter te maken?..."
+Digital Source,Ruby on Rails Developer," Their key asset is their use of the latest algorithms and technologies in Machine Learning:. Seeking opportunities here, in Amsterdam?..."
+HTBA,Azure IoT Engineer, Familiar with the potential of IoT and Machine Learning. Do you want to work with Microsoft Azure solutions?...
+100 Grams Software B.V.,Lead Backend Developer bij 100 Grams Software B.V.," Developing new Machine Learning algorithms for automatic detection of travel mode and public transport trips. We're looking for a talented, enthusiastic Python..."
+Poki,Medior/Senior Software Engineer," Your challenge: Work with the business teams to deliver, track, and optimize features for tens of millions of users around the world and game developers..."
+jobbuilders.nl,.Net Developer," This is an opportunity to get deeply involved in hands-on, cutting edge development work on automated remote quoting for sustainable energy solutions using 3D..."
+Knab,"Data Engineer (Datalab, Python, Java / Scala, ETL, AWS)"," Also, machine learning and advanced analytics models are seen as key tools. Do you want to make real impact to our customers by engineering data-intensive..."
+Darwin Recruitment,Sr Data Engineer - Travel & eCommerce - €75K, Scala/ java/ akka/ play/ spray/ slick/ cats/ angular/ angularJS/ ruby/ cassandra/ clojure/ haskell/ ocaml/ javascript/ erlang/ elixi/ hadoop/ shapeless/ scalaz/...
+Adyen,PhD Candidate for Security," You have a MSc degree in Computer Science or Artificial Intelligence, can build large programs in Java or Python, and have experience with machine learning..."
+Textkernel,Senior Linux System Engineer," We are a fast growing company developing cutting edge technologies based on Artificial Intelligence, NLP and machine learning in a no-nonsense, informal and..."
+Captiva,Head of Talent/Recruitment Manager," We are a fast growing company developing cutting edge technologies based on NLP, AI, semantics and machine learning in a no-nonsense, informal and professional..."
+HeadFWD,Java Developer," Wil je graag verder kijken dat wat je al kent meer leren van termen zoals Big Data, VR, Chatbots of Machine Learning?..."
+NKI-AVL,Master Student - Convolutional neural networks for localization of high-grade prostate cancer using quantitative MRI, Basic knowledge on deep/machine learning techniques. Traditional machine learning-based techniques have been proposed that perform the segmentation of GS using...
+Digital Source,Front-End Developer," Their key asset is their use of the latest algorithms and technologies in Machine Learning:. Seeking opportunities here, in Amsterdam?..."
+Darwin Recruitment,Tech Lead," Innovation, media industry, big data and a machine learning system; Please let me tell you more about this amazing opportunity to work in a new generation..."
+EY,Advisor Data Scientist | Performance Improvement | Data and Analytics - Financial Services (EMEIA FSO)," Wil je je graag (verder) ontwikkelen op het gebied van data science door te leren werken met Big Data, Advanced Analytics en Machine Learning?..."
+Microsoft,Senior Premier Field Engineer – Data and Artificial Intelligence," Skills and interest in Machine Learning, Python and Linux would beneficiary. Who We Are...."
+BSI,Design Engineer - Medical Devices," If so, you can join our dedicated EMEA 13485 Assessment Delivery team and be trained to become a field based Medical Device Assessor using your extensive..."
+Harnham,DIRECTOR DATA SCIENCE, Extensive experience with machine learning projects. Director Data Science....
+Traffic Builders,Vacature software developer .NET C#, Jouw taken en verantwoordelijkheden als software developer In je functie als Software Developer ben je verantwoordelijk voor de architectuur en ontwikkeling...
+PHIND,Teamlead Data Science, Uitgebreide kennis van machine learning. De organisatie is in Nederland een belangrijke IT adviseur van enorm veel organisaties....
+Textkernel,Senior Java Developer," We are a fast growing company developing cutting edge technologies based on NLP, AI, semantics and machine learning in a pragmatic, informal and diverse working..."
+InterQuest Group,Ruby Developer, They are also currently working with one Dutch University on Machine Learning implementation. Medior/ Senior Ruby on Rails Developer....
+Cleeng,EMEA Video Sales Manager (Internship), Constant learning and knowledge sharing with some of the best selling professionals in the industry. After a period of continuous target achievement and...
+Vrije Universiteit Amsterdam,Postdoc-position ‘Social media and blood donor behaviour: new ways of effective communication’, Automatische tekstanalyse of machine learning door middel van R of Python. Functiebeschrijving/Project....
+APG,Full-Stack Developer Ruby on Rails, Je hebt daarom affiniteit met data engineering en machine learning; Kennis van ontwikkelingen op het vlak van AI en Machine Learning;...
+OGD ict-Diensten,Accountmanager Softwareontwikkeling & BI," OGD ontwikkelt met behulp van de nieuwste technieken (.NET, Java, Python, Ruby, Machine learning, PowerBi, Low code, SQL, PHP)...."
+ABN AMRO Bank,Data Scientist Client Analytics I," Kennis van standaard data-analysetechnieken, statistisch modelleren en machine learning. ABN AMRO ontwikkelt zich in hoog tempo tot een data- en..."
+AnalysePeople,Medior/Senior Data Scientist | Online Media | Amsterdam, Het toepassen van geavanceerde analysemethoden en machine learning technieken. Voor een klant van mij ben ik per direct op zoek naar meerdere Data Scientists....
+KnappeKoppen,STAGE: Green Energy Optimization at Dexter Energy, Internship: Enable use of green energy by control and optimization of demand-side flexibility The increase of renewables results in volatility and...
+HTBA,Azure Expert, Je bent bekent of wil graag in de IoT and Machine Learning hoek werken. Wil jij werken als de Azure expert voor een toonaangevende organisatie?...
+Fahr-Becker,Full Stack Microsoft Developer," Search Systems / Machine Learning / Artificial Intelligence (Azure, Algorithms etc..). Other activities are around Information Retrieval from the large numbers..."
+Basic Fit,Data Architect/Lead BI Developer, Advanced analytics and machine learning to improve processes and analytics. This is an incredible time to join Basic-Fit....
+ABN AMRO Bank,Senior Quantitative Risk Analyst," Good knowledge of statistics, econometrics, financial mathematics, stochastic calculus or machine learning; Experience with machine learning/advanced analytics..."
+Yacht B.V.,Yacht IT Traineeship," Naast je werk bij onze talentpartners is er een mogelijkheid tot het bijwonen van hard skill trainingen (bijvoorbeeld op het gebied van Python, R, SQL of..."
+SIRE Life Sciences,Sr Scientist," Ruime ervaring met methoden omtrent data analyse (statistiek), data mining en machine learning technieken (supervised, unsupervised, NLP, anomaly detection)...."
+SAP,Commercial Sales Executive Data & Database Management + Analytics & Insights (Native Dutch)," Articulate our Modern Data Platform positioning, inclusive of HANA, Machine Learning, Advanced Analytics (e.g., Predictive, Spatial, NLP), etc. through..."
+mediaan,Full Stack Developer (junior / medior / senior)," Het spreekt in jouw voordeel wanneer je geïnteresseerd bent in nieuwe technologieën zoals client-side frameworks, IoT of Machine Learning, of als je kennis hebt..."
+BearingPoint,Senior Advanced Analytics Consultant, Practical experience with a wide variety of analytics and machine learning techniques (for example:. Knowledge of and practical experience with analytical and...
+ABN AMRO Bank,IT Development Engineer I," Blockchain, AI, machine learning en big data. Als IT Development Engineer werk je in het Non-Financial Risk (NFR) GRID...."
+Antoni van Leeuwenhoek Ziekenhuis,PhD Student AI in Radiology," A background in computer science, applied mathematics, biomedical engineering and/or computing is preferred, while theoretical knowledge and practical..."
+Maistering,Medior Artificial Intelligence Engineer bij Maistering Amsterdam, Develop required machine learning models or prototype applications applying formulated AI recipes and verify the problem/solution fit....
+Tarsh Partnership,Data Analytics Manager – FMCG," Specific expertise in statistical modelling and machine learning techniques such as Linear/Logistic regression, k-means/KNN, decision tree analysis would be..."
+Darwin Recruitment,Senior SRE developer," Innovation, media industry, big data and a machine learning system; Senior SRE Engineer - Music &amp; Designing - €70.000...."
+CodeGuild,Experienced Core Java Developer, Experience with machine learning is a plus. Experienced Core Java Developer Amsterdam....
+TomTom,React Native & iOS App Developer," Engineering responsibilities span collaborating with our ambitious UX team on the conception and delivery of innovative new features, to dealing with cloud and..."
+Opus Recruitment Solutions,Infrastructure/Cloud Engineer," They have evolved their business to cover areas including Machine Learning, and remain the market leaders with their high quality products...."
+Darwin Recruitment,Software Engineering Manager - Innovative hyper growth startup," Technical Lead, Development, Team Leader, Head, Java, Scala, AngularJS, Angular, JavaScript, Akka, Play, Hadoop, Spring, Hibernate, JSON, Scrum, Agile, Scala,..."
+Maistering,Medior Java A.I. Engineer bij Maistering Amsterdam, Develop required machine learning models or prototype applications applying formulated AI recipes and verify the problem/solution fit....
+Oracle,Principle Cloud ERP Finance Presales Consultant with Dutch," A consultant who can design a Cloud-based ERP solution that provides business value by improving insight &amp; reporting, modernising business processes &amp;..."
+KPMG,Senior Engineer Big Data Technology," Data Science, Machine Learning, Cloud Computing, Networking, Security, Encryption, RESTful interfaces and DevOps. Change the face of the world with Big Data...."
+Xccelerated,Big Data Engineering Lead bij Xccelerated," Hence, a data engineer should know the basics of machine learning, and data scientists should know the basics of how to put a model into production...."
+Accenture,Internship Business analytics," Knowledge of programming languages (preferably Python), experience with data manipulation and data cleansing, knowledge of machine learning libraries,..."
+CodeGuild,Front-end developer | Angular 4 & TypeScript | Red levens wereldwijd," Interesse in (Big) Data, Artificial Intelligence en Machine Learning is een plus. Interne kennisdelingssessies en workshops over Artificial Intelligence,..."
+Huxley IT,SAP BW / HANA Developer - Permanent position - Amsterdam Area, Basics of machine learning. As a SAP BW/HANA Developer you have a passion for enterprise data management and eager to keep learning new technologies and...
+mediaan,Software Engineer Medior / Senior," Het spreekt in jouw voordeel wanneer je aantoonbaar graag nieuwe technologieën leert, zoals client-side frameworks, IoT en Machine Learning...."
+Darwin Recruitment,Senior Data Engineer - eCommerce - €75K, Scala/ java/ akka/ play/ spray/ slick/ cats/ angular/ angularJS/ ruby/ cassandra/ clojure/ haskell/ ocaml/ javascript/ erlang/ elixi/ hadoop/ shapeless/ scalaz/...
+Darwin Recruitment,Javascript engineer," Innovation, media industry, big data and a machine learning system; Please let me tell you more about this amazing opportunity to work in a new generation..."
+DXC,"Technical Consultant - Big Data, Analytics & Data Management", Understand the principles of machine learning and how it can be applied. Analytics Technical Consultants at DXC have a unique opportunity to work with our very...
+YoungCapital,Fulltime Consultant Data Science voor internationaal Data Intelligence bedrijf in Amsterdam," Dit doen ze door geadvanceerde data science technieken zoals ""machine learning"" en ""artificial intelligence"" te combineren met analyses, modelling en..."
+CodeGuild,Java Developer," Met de afwisseling in technologische uitdaging rondom de thema’s schaalbaarheid, performance, distributed computing en machine learning?..."
+Randstad,data scientist randstad groep it - diemen," Je hebt ervaring met machine learning en eventueel ervaring met NLP, deep learning of andere Data Science technieken...."
+Zonnepanelendelen,Medior Software Engineer bij Zonnepanelendelen, Learning and growth opportunities. You are willing to dig into IoT sensors and convert their data into intelligence using machine learning....
+CodeGuild,Mobile JavaScript Developer Amsterdam & Utrecht, En dan ook nog werken aan unieke apps die zich door machine learning en AI aanpassen aan het gedrag van de gebruiker?!...
+Darwin Recruitment,Senior Backend Engineer, Do you want to learn more on machine learning &amp; artificial intelligence? Senior Java developer- Java 8-Fullstack-Amsterdam....
+Yacht,data scientist randstad groep it - diemen," Je hebt ervaring met machine learning en eventueel ervaring met NLP, deep learning of andere Data Science technieken...."
+KPMG,Senior Consultant Big Data Engineer," Data Science, Machine Learning, Cloud Computing, Networking, Security, Encryption, RESTful interfaces and DevOps. Change the face of the world with Big Data...."
+Albert Heijn,Java Developer," Zo zetten we artificial intelligence en machine learning in om klanten beter te kunnen helpen bij voorspellen van hun boodschappenmandje, integreren we de AH..."
+CodeGuild,Medior Full Stack developer | React VueJS Angular6 NodeJS," Skill yourself in for example in React, VueJS or Angular6 and AI, Machine learning, cloud technology, setting up CI/CD, testing, strategy development...."
+HTBA,Business Intelligence Developer," Hierbij maak je gebruik van de nieuwste technieken en tools, zoals Machine Learning. Toe aan een nieuwe uitdaging als Business Intelligence Developer?..."
+Airborne Oil & Gas,Internship Electrical Engineering, CAPAs (corrective and preventive actions) to improve machines and increase machine reliability. Learning about state of the art composite design/production...
+CodeGuild,"Front-end Developer | React / Redux, Node, Microservices, AI"," React/Redux, Node, microservices, Artificial Intelligence &amp; Machine Learning? Senior JavaScript Front-end Developer Amsterdam | React/Redux, Node Microservices,..."
+Harnham,SENIOR DATA SCIENTIST- FINANCE- OPERATIONAL RISK, Use machine learning to solve complex problems. Confident using machine learning and experience with data mining....
+CodeGuild,Senior Java Developer Amsterdam | eCommerce," Large scale applications, distributed computing, machine learning, full text searching. Vacancy Senior Java Developer Amsterdam...."
+CodeGuild,Disruptive Core Java Software Engineer, Experience with machine learning is a plus. Core Java Software Engineer Amsterdam....
+Maistering,Senior Artificial Intelligence Engineer bij Maistering Amsterdam, Develop required machine learning models or prototype applications applying formulated AI recipes and verify the problem/solution fit....
+CodeGuild,Java Developer | Build from Scratch!, How about building a totally new Microservices platform or even work on some Machine Learning for intelligent recommendation engines?...
+Opus Recruitment Solutions,Senior Linux System Engineer," Do you want to work in a progressive, international environment focusing on Artificial Intelligence and Machine Learning?..."
+Harnham,SENIOR DATA ENGINEER- RETAIL, Good knowledge of machine learning. Using Hadoop or Spark to improve the machine learning mechanisms. Data Engineer - Retail....
+YoungCapital,Fulltime Solution Architect voor internationaal Data Intelligence bedrijf in Amsterdam," Dit doen ze door geadvanceerde data science technieken zoals ""machine learning"" en ""artificial intelligence"" te combineren met analyses, modelling en..."
+Maistering,Senior Java A.I. Engineer bij Maistering Amsterdam, Develop required machine learning models or prototype applications applying formulated AI recipes and verify the problem/solution fit....
+EY,Advisor WO Financial Services Risk — quantitative analysis (EMEIA FSO), Zo hebben we al eens een blokchain gebouwd en meegedaan aan verscheidene machine learning competities. Een gezonde financiële industrie is de basis voor een...
+CodeGuild,"Full stack JavaScript Developer | NodeJS, Microservices, AWS"," And how about continuous experimenting with the latest technologies (NodeJS, AWS, Microservices, Machine Learning / recommendation engines)?..."
+CodeGuild,Medior Java Developer | Big Data | € 60.000," Dit zeer succesvol technologie bedrijf in Amsterdam is het eerste software bedrijf in Nederland dat Machine Learning, Deep Learning &amp; Software Engineering..."
+Randstad Groep Nederland B.V.,Java Scala Developer (permanent position)," We value continuous learning. The goal of the SmartMatch team is to complement the expertise of Randstad by building state of the art Artificial Intelligence,..."
+BSI,Quality Manager / Quality Engineer - Medical Devices," If so, you can join our dedicated EMEA 13485 Assessment Delivery team and be trained to become a field based Medical Device Assessor using your extensive..."
+Progressive Recruitment,Software developer - C++/QT," Kennis en/of ervaring met IoT, Vision en machine learning systemen is een pré; Bij voorkeur kennis van de machine richtlijn, PL en/of SIL;..."
+StackOps,Cutting New Grounds as Linux DevOps Engineer," Ze combineren geavanceerde Data-Science-technieken, zoals machine learning en diepe neutrale netwerken, met modelleringen, analyses en visualisaties via hun..."
+CodeGuild,Medior Java Software Engineer | € 60.000 + 5%," Leading the way in big data, machine learning AND smart high tech product development! Have you ever listened to a TED(x) talk about Big Data and Machine..."
+PHIND,Lead Data Science Consultant, Uitgebreide kennis van machine learning. De organisatie is in Nederland een belangrijke IT adviseur van enorm veel organisaties....
+PwC,Credit risk & Quantitative Senior Consultant," Analyseren van big data bij verzekeraars, banken en pensioenfondsen/-uitvoerders en daarmee praktische oplossingen ontwerpen voor vraagstukken van deze klanten,..."
+CodeGuild,Senior Core Java Developer Distributed Data Processing Amsterdam, Terabytes of data are involved in learning and upgrading customer experiences with every contact moment. These learning system enables clients to continue the...
+Progressive Recruitment,Embedded Software Engineer," Knowledge and / or experience with IoT, Vision and machine learning systems is an advantage; Preferably knowledge of the machine directive, PL and / or SIL;..."
+CodeGuild,Senior Core JavaScript Developer Amsterdam," Their bleeding edge cloud software platform based on the latest AI concepts (pattern recognition, data mining, machine learning) enables organizations to highly..."
+CodeGuild,Medior Distributed Java Software Engineer," Would you like to work with Hadoop, Mahout, Machine Learning and Cassandra? Job:...."
+CodeGuild,Full stack developer NodeJS React | 3 days remote!," Affinity with the latest trends &amp; technologies like Artificial Intelligence, Machine Learning, Data Analytics &amp; Blockchain is a big plus...."
+KPMG,Commerciële Sr. Consultant Data & Analytics," Samen met onze D&amp;A specialisten zullen innovatieve ontwikkelingen hieraan kunnen bijdragen, zoals Artifical Intelligence, Machine Learning, ERP Analytics,..."
+CodeGuild,Leading Java Software Engineer," A company with technical challenges around scalability, high performance, distributed computing and machine learning...."
+Krosto Techniek,Engineer Vision, Ervaring met deep learning is een pré. Je maakt het conceptueel ontwerp van de Machine Vision applicatie:. Het opstellen van eisen daaraan en dit omzetten in...
+Huxley IT,Unieke locatie in Amsterdam - Java Developer," Hierbij wordt er gekeken naar de nieuwste technologieën, zoals machine learning. Ben je op zoek naar een nieuwe uitdaging als Java Developer op een unieke en..."
+Textkernel,"Shape the development of AI and HR Technology: opportunities in engineering, product management, consultancy, and sales"," Do you combine a passion for customers and building a great company with a keen interest in AI, Machine Learning, Natural Language Processing, advanced..."
+CodeGuild,Lead Scala Software Engineer | up to € 111.000," After which you and your team will start adding advanced features using Deep Learning, Machine Learning, Scala, Akka, Cassandra, Microservices, Spark, Docker..."
+Harnham,SENIOR DATA ENGINEER- AMSTERDAM, Het toepassen van machine learning technieken. Samenwerken met Data Engineers en Data Scientists waarbij je werkt rondom de thema's schaalbaarheid en machine...
+CodeGuild,Java Software Engineer Amsterdam | ProdDev | P," You are able to work on building new REST API’s, Elasticsearch solutions, from machine learning to Performance and Scalability challenges and from language..."
+CodeGuild,Senior JavaScript Developer Amsterdam Angular," Their bleeding edge cloud software platform based on the latest AI concepts (pattern recognition, data mining, machine learning) enables organizations to highly..."
+CodeGuild,Senior Core Java R&D Software Engineer," Their bleeding edge cloud software platform based on the latest AI concepts (pattern recognition, data mining, machine learning) enables huge enterprise..."
+YoungCapital,Product Owner gezocht op het hoofdkantoor van YoungCapital in Hoofddorp, We ontwikkelen machine learning algoritmes waarmee geschikte kandidaten automatisch gematched worden met onze vacatures;...
+CodeGuild,Senior Java Developer Big Data Amsterdam, Using concepts like Data Mining and Machine Learning are possibilities. Senior Java developer Big Data Amsterdam....
+CodeGuild,"Frontend Developer | Experiment with Angular 4, React & Node"," And how about continuous experimenting with the latest technologies (Angular4, React, Node, AWS, Machine Learning)?..."
+HeadFWD,Senior/Lead JavaScript Developer: Expert in SPA Frameworks," Wil je graag meer leren van termen zoals Big Data, VR, Chatbots of Machine Learning? Jij gaat jezelf nog harder uitdagen, buiten de lijntjes tekenen en uit je..."
+YoungCapital,UX designer voor YoungCapital in Hoofddorp, We ontwikkelen machine learning algoritmes waarmee geschikte kandidaten automatisch gematched worden met onze vacatures;...
+CodeGuild,Senior Distributed Software Engineer Amsterdam Java Scala, Experience with Machine Learning and Spark are pluses. Senior Distributed Software Engineer Amsterdam Java Scala....
+CodeGuild,Senior Java Software Engineer | € 80.000 + 5%," Leading the way in big data, machine learning AND smart high tech product development! Have you ever listened to a TED(x) talk about Big Data and Machine..."
+CodeGuild,Lead Developer | Java & Scala/Akka | tot € 85.000 + 10% bonus," Marktleider in Big Data, Machine Learning en slimme high tech product ontwikkeling! Dit zeer succesvol technologie bedrijf in Amsterdam is het eerste software..."
+CodeGuild,Senior/Lead Java Developer | Build from Scratch!, How about building a totally new Microservices platform or even work on some Machine Learning for intelligent recommendation engines?...
+ABN AMRO Bank,Senior IT Development Engineer | Non Financial Risk," Blockchain, AI, machine learning en big data. Als IT Development Engineer werk je in het Non-Financial Risk (NFR) GRID...."
+BK Professionals,Stage HBO Werktuigbouwkunde Onderzoek Internet of Things (Per september 2018), They all will have their own status per machine. Investigate what we need to add to our machine to find known problems....
+CodeGuild,Full Stack JavaScript Software Developer React, Experience with Machine Learning &amp; AI is a plus. Are you enthusiastic about working on highly challenging projects pushing the boundaries of (Sequence to...
+CodeGuild,Mdr/Sr Java Software Engineer | ProdDev," Van REST Api’s tot elasticsearch oplossingen, van machine learning en taaltechnologie tot performance en schaalbaarheid...."
+CodeGuild,Senior Frontend Developer | Team-up with fellow elite engineer," But on top of this also blockchain, artificial intelligence &amp; machine learning and backend technologies. Your new job:...."
+CodeGuild,Tech Lead Software Engineer Amsterdam Java Scala, Experience with Machine Learning and Spark are pluses. Tech Lead Software Engineer Amsterdam Java Scala....
+CodeGuild,"Senior Java Software Engineer | AWS, Docker, Cassandra"," Dus mocht je Machine Learning en Big Data leuk vinden, hun kun je jouw graantje meepikken! Senior Java Software Engineer Amsterdam...."
+CodeGuild,Lead Java Software Engineer High Performance | tot € 90.000, Bouw high performance producten gebaseerd op de laatse Machine &amp; Deep Learning principes. Dit zeer succesvol technologie bedrijf in Amsterdam is het eerste...
+BK Professionals,Stage HBO Technische Bedrijfskunde Internet of Things (Per september 2018), They all will have their own status per machine. Investigate what we need to add to our machine to find known problems....
+Universiteit van Amsterdam,"University Professor of Law and Technology, with special emphasis on Artificial Intelligence"," For instance, new search engine programmes such as ‘machine learning contract analysis’ can help lawyers analyse contracts;..."
+CodeGuild,Lead Java Software Engineer | Schaalbaarheid & Performance | € 90.000 + 10%," Leidende kracht in big data, machine learning EN slimme high tech product ontwikkeling! Dit zeer succesvol technologie bedrijf in Amsterdam is het eerste..."
+CodeGuild,Senior full-stack JavaScript ontwikkelaar | NodeJS React Mobile Microservices," Senior full-stack JavaScript ontwikkelaar Amsterdam | NodeJS, React, Microservices, Machine Learning, AI, Blockchain...."
+CodeGuild,Lead Java Software Engineer Amsterdam Big Data," Marktleider in Big Data, Machine Learning en slimme high tech product ontwikkeling! Dit zeer succesvol technologie bedrijf in Amsterdam is het eerste software..."
+CodeGuild,Senior/Lead Java software engineer | Taaltechnologie," Met de afwisseling in technologische uitdaging rondom de thema’s schaalbaarheid, performance, distributed computing en machine learning?..."
+Jugaad,3 internships for Python developer: Machine learning and Chatbot," Interested in learning by doing, and asking questions when in doubt and disagreement. Brief description of the role*...."
+Universiteit van Amsterdam,Onderwijsassistent Kunstmatige Intelligentie," Dat zal een deelset van vakken zijn op het gebied van wiskunde, logica, taaltheorie, psychologie, programmeren, beeldverwerken en machine learning;..."
+Xomnia,Data Science Traineeship," Be trained on many topics, such as machine learning, dashboard visualization, text mining, deep learning, and deployment;..."
+Pacmed,Thesis Intern (Health care)," Bayesian Deep Learning. With a passion for Data Science and Machine Learning and Some programming experience, preferably in Python...."
+Relay42,AI Team Lead, It will be your responsibility to deliver on that vision together with a team consisting of Machine Learning and Machine Learning Infrastructure Engineers....
+inSided,Onboarding & Product Specialist," We are combining advanced AI and machine learning technology, with the power of a customer community, to ensure that customers get fast and relevant answers, in..."
+ParaBotS,Medewerkers met een algemene achtergrond in Kunstmatige Intelligentie.," Semantisch Web, Web Crawler Technologie, Big Data, Informatie Extractie, TaalAnalyse, Machine Learning, Data Analyse...."
+Anchormen,Trainee Data Science & A.I.," The Data Science team is specialized in machine learning, deep learning, computer vision and robotics technologies. New program starts in October 2018...."
+Supply Chain Wizard,Project Manager," Supply Chain Wizard partners with organizations in designing, developing and implementing digital solutions using state-of-the-art technologies such as Internet..."
+Catawiki,Data Scientist - Product & Customer, Building models that apply machine learning and advanced data science techniques within our product offering by writing robust and scalable code....
+Payvision,Data Science Intern - Fraud, Knowledge of Machine Learning algorithms; We would like to see both a supervised and unsupervised machine learning approach (to catch so called unknown unknown...
+Payvision,Data Science Intern, Knowledge of Machine Learning algorithms; Automated Merchant Risk Profiling and Underwriting (Machine Learning / Natural Language Processing)....
+Media Distillery,Marketing Lead, Our artificial intelligence and machine learning algorithms understand what video is about and helps our customers to search in videos to get insight and make...
+Vesteda,Research Data Analist," Je hebt bij voorkeur kennis van de Nederlandse vastgoedmarkt, maar nog belangrijker, je bent thuis in de wereld van Big Data, machine learning en data science...."
+Impraise,Marketing Automation Specialist - Amsterdam," Together with our growth manager, you will be the architect of our lead generation machine. Focus on reporting/analytics with takeaways to implement best..."
+Supply Chain Wizard,Business Analyst," Supply Chain Wizard partners with organizations in designing, developing and implementing digital solutions using state-of-the-art technologies such as Internet..."
+VentureBuilders,React Developer," You will get in contact with machine learning, AI and NLP and have the chance to have deep philosophical conversations with our office Alexa...."
+FeelRobotics,Full-Stack Developer," Machine Learning enthusiast (TensorFlow, R etc.). You’ll contribute positively to our eCommerce (Shopify) platform, Video content platform, Mobile Apps,..."
+Payvision,Associate Data Engineer," Aid in the implementation and maintenance of the machine learning models; Build innovative data pipeline solutions in the areas of self-service analytics, real..."
+Synechron,Data Scientist Finance Risk," Design, develop and test statistical and machine learning models. As a Data Scientist and Analyst within the finance &amp; risk practice, you will be providing..."
+Xomnia,Data Scientist, Machine learning kennis overbrengen op anderen; Ben jij een ervaren Data Scientist en toe aan een nieuwe stap in je carrière?...
+ORTEC,Back-End Developer Adscience, Continuously improve the algorithm with the newest machine learning techniques. Scala and druid databases) and apply state-of-the-art mathematics within our...
+Payconiq,Front end Developer," I feel comfortable learning, sharing and gaining a different set of skills as I believe:. You like long walks to the coffee machine, casual beers while gazing..."
+MessageBird,Data Engineer, Experience with production grade Machine Learning. Bring machine learning to every nook and cranny of the company....
+VentureBuilders,Software developer," Combining SaaS, big data, machine learning, user-generated content, data visualisation. We track over 500,000 technology companies worldwide, using a..."
+LeasePlan Digital,Senior Data Scientist," Also, a deep understanding of machine learning and statistical methods with their underlying theory and math...."
+VentureBuilders,Business Development Lead," Combining SaaS, big data, machine learning, user-generated content, data visualisation. We track over 500,000 technology companies worldwide, using a..."
+Flytxt Mobile Solutions,AI / ML Solutions Architect, Knowledge about analytics/ machine learning. Qualification and Experience:....
+Schuberg Philis,Business Intelligence Specialist," Is open, quick learning and the type of person that loves to connect people and technology. We run online banks and businesses/public critical environments in..."
+Templeton and Partners Limited,(contract) Natural Language Processing(NLP) Specialist," Deep learning knowledge (CNN, RNN, LSTM)/ Google Tensor Flow/Python for Machine Learning is a strong preference...."
+Schuberg Philis,Mission Critical - Cloud Engineers," We lead the transformation to a reliable, fast, innovative and fast learning IT machine, which includes ingraining a DevOps culture, moving to daily deploys,..."
+Anchormen,Tech Lead, Knowledge of Machine Learning is a plus. You develop alongside the team....
+Aidence,Senior Backend Engineer," Experience with machine learning concepts and libraries (esp. Ability to work in a start-up environment with a multidisciplinary team including medical experts,..."
+KPMG,Scriptant Cyber," Denk bijvoorbeeld aan machine learning in threat detection, automatisering van penetratietesten of de juridische implicaties daarvan...."
+ORTEC,Back-End Developer, We have a start-up environment in which we rapidly develop new products that use a wide array of data science methods such as machine learning techniques like...
+Faction XYZ BVBA,Business Development Manager, Boutique firm that combines a strong business acumen with technical mastery in the field of machine and deep learning....
+Hotelchamp,Senior Data Scientist (FT)," Hotelchamp in Amsterdam, Netherlands is looking for a Full-time Senior Data Scientist with a proven track record in the field of big data and data analytics..."
+Quicargo,Data Scientist Developer, Ervaring met Machine Learning en Deep Learning; Als Data Scientist Developer ben je verantwoordelijk voor het analyseren van de logistieke sector en de lopende...
+MBR Partners,Solutions Architect (Telco Analytics),  Knowledge about analytics/machine learning. AI/ML Solutions Architect....
+Anchormen,Trainee Data Science & A.I. (High Potential Program)," Python, R, Machine Learning en Deep Learning. Trainee Data Science &amp; A.I...."
+de Bijenkorf,Java Developer," And the coming year we will be focusing on machine learning, personalization and image recognition. Hoogoorddreef 11, Amsterdam - Servicekantoor...."
+Pure Storage,Account Executive - Enterprise," The world is experiencing a technological revolution driven by AI, machine learning, virtual reality, quantum computing and self-driving cars -- all of which..."
+Databricks,Software Engineer - Spark Runtime (Amsterdam)," We are looking for engineers who will bring revolutionary ideas to an area that is largely silo'ed to data engineering, data science, and machine learning teams..."
+L1NDA,Back-end (Python) Developer," DDD, Machine Learning. Work with us towards the next phase, in which we intend to make our product much smarter (AI, machine learning)...."
+Luminis,Agile Projectmanager, De afgelopen paar jaar is Luminis Amsterdam gegroeid tot een mooi bedrijf waar we ons bezighouden met projecten en conceptontwikkeling zodat we onze klanten en...
+Atos,Junior Data Scientist (P)," Heb je affiniteit/ervaring op het gebied van Data science, Artificial Intelligence, Machine Learning &amp; Statistiek...."
+Media Distillery,DevOps Engineer (Java)," Develop your understanding of machine learning, natural language processing and deep learning algorithms. Our agile working team is passionate about learning..."
+Sushi Ran B.V.,Trainee Onderhoud/Mechanisatie/Procesverbetering," Hiertoe volg je een distant learning opleiding in procesverbetering (Black Belt Six Sigma), of continu verbeteren (TPM/total productive maintenance)...."
+de Bijenkorf,Site Reliability Engineer," And the coming year we will be focusing on machine learning, personalization and image recognition. Site Reliability Engineer...."
+Anchormen,Senior Data Engineer, You work closely together with data scientists to bring machine learning algorithms into a production environment....
+Oxygen Digital Recruitment,Data Engineer," In addition, any experience with Machine Learning, data pipeline &amp; workflow management tools, GIT, Continuous Integration and RESTful API’s will all be a..."
+Pure Storage,Channel Technical Manager," The world is experiencing a technological revolution driven by AI, machine learning, virtual reality, quantum computing and self-driving cars -- all of which..."
+Pure Storage,Systems Engineer - Enterprise," The world is experiencing a technological revolution driven by AI, machine learning, virtual reality, quantum computing and self-driving cars -- all of which..."
+Giant Fox,Full Stack / Java Developer," Je zorgt ervoor dat de zware berekeningen, data analyses, machine learnings en AI op servers worden uitgevoerd. Oplossingen bestaan niet meer uit één systeem...."
+Next Ventures,BI consultant," De rol valt binnen een organisatie die openstaat voor verandering in de BI wereld, zo ontwikkelen ze zich steeds meer en behoren data science en machine..."
+Independent Recruiters,Data Scientist," Binnen het Data Science team zul je te maken krijgen met verschillende vakgebieden zoals machine learning, forecast modelling, data processing, conversie..."
+Independent Recruiters,Data Scientist (artificial intelligence & predictive analytics solutions), In depth knowledge of several machine learning algorithms; Commercial or academic experience of developing machine learning solutions;...
+WKL Consultancy,Amsterdam | Data Scientist | Tech company, Leading initiatives in machine learning. Our client is a Startup Tech E-Commerce company with about 130 people employed and growing with a exponential speed....
+Your Professionals,Leidinggevende Data Analist," R, Python, SQL, Hive, Spark, Machine Learning, Linux, Git:. Ervaring met een aantal van de volgende tools (R, Python, SQL, Hive, Spark, Machine Learning, Linux,..."
+Payconiq,Senior Automation Engineer (backend)," I feel comfortable learning, sharing and gaining a different set of skills as I believe:. You like long walks to the coffee machine, casual beers while gazing..."
+Pointer Brand Protection,Medior Developer with DevOps," Upcoming projects include machine learning, image recognition, and graph databases. You will be learning our existing systems and designing and building new..."
+Steward Redqueen,Stage Sustainability Data Science," Affiniteit of ervaring heeft met data science technieken (data mining, machine learning, etc.). Steward Redqueen is een adviesbureau dat zich erop richt de..."
+UGOO,Technisch consultant innovation & funding," Het gesprek gaat over toepassingen van AI, machine learning algoritmen en de Singularity. Dit is je kans om als technisch consultant samen te werken met de..."
+Dome Recruitment,Android Engineer," Knowledge in Gradle, Kotlin, Machine Learning/AI, iOS, React Native, C++, are a plus. Our client based in Amsterdam require 3 Android Engineers for 6 month..."
+JumpWork,Senior Front-end Developer," We use a combination of unique behavioural data, machine learning, and of course efficient product development...."
+SDP,"Data Warehousing Architect, AWS", Our Amazon Web Services (AWS) specialized client offers a comprehensive set of services to handle every step of the analytics process chain including data...
+Independent Recruiters,Data Analist," Kennis van thema’s als Machine Learning, next best action modelling, campaign evaluatie en real-time KPI monitoring;..."
+Sterrk,Python Developer, Zo gaat het bedrijf onder andere aan de slag met het implementeren van Machine learning. Wil jij als Python Developer werken bij een goed gefinancierde startup?...
+WKL Consultancy,Data engineer | Tech Start-up | Amsterdam," Knowledge about Machine Learning applications is a plus. Working in close collaboration with product management, backend engineers and machine learning..."
+WKL Consultancy,Software/infrastructure engineer AI | Tech Start-up | Amsterdam," Knowledge about Machine Learning applications is a plus. Working in close collaboration with product management, backend engineers and machine learning..."
+BOLD Company,.NET Developer," Aangezien betalingen steeds meer gedigitaliseerd worden, staan zaken als blockchain, cryptocurrency en machine learning hoog op de agenda!..."
+Truelegends,Lead Data Scientist," Ervaring met statistische algoritmes, machine learning, data exploratie en visualisatie; Werken bij een Science startup binnen een internationale organisatie?..."
+Luminis,Senior developer / architect, Je hebt affiniteit met Machine Learning en AI. Als senior heb je een sleutelpositie binnen ons team....
+Accentia,Data Engineer," Je hebt ervaring met Machine Learning, AI, Deep Learning, etc. Als Data Engineer verantwoordelijk voor het prepareren van data zodat daar analyses voor Customer..."
+Independent Recruiters,Business Intelligence Consultant (Azure / Power BI)," Actively stay up to date with concepts such as Data Science, Machine Learning, and other evolving Microsoft Azure Data Platform related services;..."
+Accentia,Data Scientist Client Analytics," Kennis van data analyse technieken, statistisch modelleren en machine learning, zowel de theorie als praktische toepassing daarvan;..."
+Sterrk,Medior PHP Developer, Ben jij geïnteresseerd in machine learning? Je bent geïnteresseerd in de nieuwste technieken als Machine Learning....
+SDP,"Data Warehouse Architect, BI Cloud environment"," The explosion of big data, machine learning and cloud computing power creates an opportunity to make a quantum leap forward in business understanding and..."
+thobs,Senior Software Engineer, Build cutting edge computer vison / machine learning systems. Experience implementing algorithms in Computer Vision and/or Machine Learning....
+Sterrk,Senior .NET Developer, In de maritieme sector is dit het eerste product dat alle data van een klant gebruikt en er is bij de bouw dan ook gebruik gemaakt van nieuwe technieken als ASP...
+BOLD Company,".NET Developer | Internationaal betaalplatform | ASP.NET, C#, HTML | Topvoorwaarden | Salaris tot €5.000,- per maand"," Aangezien betalingen steeds meer gedigitaliseerd worden, staan zaken als blockchain, cryptocurrency en machine learning hoog op de agenda!..."
+ING,"Data Scientists, Machine Learning experts (junior tot senior level)", 4.share a code sample you're very proud of (of course something data science / machine learning related). MSc or PhD with excellent academic results in the...
+ING,Full Stack Dev Engineer Applied Machine Learning / Virtual Assistants," Having knowledge of Artificial Intelligence, Machine Learning and NLP techniques. Full Stack Dev Engineer Applied Machine Learning / Virtual Assistants /..."
+ING,Junior Market Risk Professional, We keep up-to-date on the latest trends relevant to us such as Machine Learning modelling. Experience with advanced statistical/machine learning techniques and...
+ING,Data Scientist," Knowledgeable about machine learning techniques and willingness to keep the knowledge up-to-date. Besides this, you will build and improve predictive models..."
+ING,Junior Market Risk Modeller, Familiarity with advanced statistical techniques like machine learning and deep learning. ING is looking for a Junior Market Risk Modeller....
+ING,Market Risk Modeller, Familiarity with advanced statistical techniques like machine learning and deep learning. ING is looking for Market Risk Modeller....
+ING,Medior Risk Scientist, Experience with advanced statistical techniques such as machine learning. ING is looking for Credit Risk Scientists....
+ING,Senior Risk Scientist, Experience with advanced statistical techniques such as machine learning. ING is looking for Credit Risk Scientists (55 to 90K euro)....
+ING,Trading Quant - Financial Risk Model Development, Familiarity with advanced statistical techniques such as machine learning and deep learning. ING is looking for Trading Quants....
+ING,Fullstack Developer WBAA," Knowledge of Machine learning (preferred experience with real implementations), or at least strong affinity with it; You have a learning attitude...."
+ING,Model Validator Market & Operational Risk," Knowledge of Machine Learning and Big Data is welcomed. Moreover, this scope will be further expanding over time to also include non-regulatory models (inwhich..."
+ING,Senior Market Risk Professional, We keep up-to-date on the latest trends relevant to us such as Machine Learning modelling. Experience with advanced statistical/machine learning techniques and...
+ING,Senior Credit Risk Modeller 140, Experience with advanced statistical techniques such as machine learning. Senior Credit Risk Modeller....
+ING,Fullstack Dev Engineer," Knowledge of Machine learning (preferred experience with real implementations), or at least strong affinity with it; You have a learning attitude...."
+ING,Senior Data Scientist FEC - Process Owner, Try to understand and predict customer behaviour through the use of advanced techniques and machine learning....
+ING,Chapter Lead Data Analytics voor Tribe Collections, Chapter Lead Data Analytics Leiding geven aan een team Data Analisten en Data Scientists en meewerken in een Squad Wil jij fact-based werken bij een bank...
+Java Professionals,Data Scientist Open Source Platform," Ervaring met Data Science en Machine Learning; Binnen het team heb je niet alleen belangrijke rol in het ontwikkelen van de back-end software, maar je bent ook..."
+Java Professionals,Data Scientist voor Algoritmes Uitzendbranche," Ervaring met Data Science, Machine learning en Deep Learning; Naast Data Science wordt er ook gewerkt met Machine Learning en Deep Learning...."
+ING,Back End Developer / Scala / Java," Knowledge of Machine learning (preferred experience with real implementations); You have a learning attitude. ING is looking for a Software Engineer, Back End /..."
+Java Professionals,Fullstack Java developers start-up, Er zijn nog genoeg complexe uitdagingen die opgelost moeten worden en willen zij nieuwe software creëren wat met Machine learning te maken heeft....
